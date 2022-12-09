@@ -1,0 +1,1029 @@
+First off I'd like to mention these:
+https://ryukau.github.io/VSTPlugins/ UUhyou plugins- All seem to be cross-platform. Boring GUIs, but very current plugins and should run well on new systems
+https://quietmusic.eu/  Quiet music makes beautiful virtual instruments made from samples- check out their free plugins section; you won't be disappointed
+
+Amps:
+Ace (Shattered Glass Audio) (tweed)
+AMPER (AnalogObsession)
+AnvilRhythm (Vadim Taranov)
+Peavey 5150 simulation (Vadim Taranov)
+5159 (TSE) (5150)
+8505 (Nick Crow) (5150)
+7170 (Nick Crow)
+Blacksun (Audio Assault) (Blackstar) (free @ https://audioassault.mx/products/blacksun)
+California Sun (audiorammer)
+Clang (Vadim Taranov)
+DynoMod (Sampleson) 
+Harlequin preamp (Mercuriall) (Cornford Harlequin)
+LeXTAC (LePou) (Bogner Ecstasy)
+SuperSonic (Vadim Taranov) (Bogner Uberschall preamp)
+ENDL Fireball (Vadim Taranov) (ENGL Fireball)
+Le456 (LePou) (ENGL preamp)
+SoftAmp Fm25 (AXP) (Fender Frontman combo)
+JCM800 Hot preamp (Mercuriall)
+JessieM X100 (Vadim Taranov) (JCM800)
+Juicy 77 (BTE Audio)
+MarsJFD (VTarAmps)(Marshall JFD100)
+MK4 (Vadim Taranov) (Mesa MK4 preamp) (https://vtaramps.blogspot.com/2018/03/megafuzzie-mk4.html)
+LeCto (LePou) (Mesa Rectifier)
+Modern Premier mic preamp (Antress)
+NA Crunk V2 (Nembrini Audio)
+NSbAmp preamp(Vadim Taranov)
+TPA1 (Ignite Amps) (power amp)
+Raven Volcanic (Vadim Taranov)
+WagnerSharp (Nick Crow)
+Amped Roots (ML Sound Lab) (5150) (free @ https://ml-sound-lab.com/products/amped-roots)
+Amped Stevie T (ML Sound Lab) (free @ https://ml-sound-lab.com/products/amped-stevie-t-free)
+Emissary (Ignite Amps)
+L12X (Audiority) (Marshall Lead 12) (free @ https://www.audiority.com/shop/l12x-solid-state-amplifier/)
+Classic Thirty (EXE Consulting) (Vox AC-30)
+JAMP (AnalogObsession) (Marshall JTM45)
+PreBOX (AnalogObsession) (multi preamp modeler)
+Redcurrant Guitar Amp (Cornflower Audio)
+ToneDeluxeV2 (LostIn70s)
+Bass Grinder Free (Audio Assault)
+Boogex (Voxengo)
+Rollamp (AnalogObsession)
+Swanky Amp (Resonant DSP)
+The Anvil (Ignite amps)
+Blue Cat's Free Amp (Blue Cat Audio)
+
+
+
+Bass Enhancement:
+Bass Landscapes (Softrave)
+Bass Professor MK II (Sonic Anomaly)
+Dark Mass (SynthEdit)
+GMonoBass (GVST)
+Sumo (Steven Brambley)
+BL Infra (BlueLab)
+BX Subfilter (Plugin Alliance)
+
+Bitcrush:
+Codec (lese)
+Decimator (Tobybear)
+DeltaModulator (XFer) NES Deltamodulator 
+Dystroyed (Damaged Records)
+E-Phonic LOFI (E-Phonic)
+Geektronic (Eric Langou)
+Gravel (Taiga)
+Homecorrupter (igorski.nl)
+HY-Lofi (Hyakken)
+kHs Bitcrush (Kilohearts)
+myfx c64 it (marc de haar)
+Imperfection (Stephen Brambley)
+KHS Bitcrush (Kilohearts) (part of Kilohearts bundle @ https://kilohearts.com/products/kilohearts_essentials)
+Krush (Tritik)
+Oldigy (Latenko Roman)
+PCM2612 (Inphonik)
+Quantize (Jonas Wolfart)
+Reception (Jack Resweber)
+Regressif (Inear Display)
+Sample Reducer (Daniel Lind)
+SC Bitcrusher (Stagecraft Software)
+TAL Bitcrusher (Togu Audio Line)
+
+
+
+Channel Strip:
+DD Channel (Dead Duck Software)
+EFQ-D (Samsara)
+KHS channel
+Code Red Free (Shattered Glass Audio)
+SL84 (SmackLabs)
+SSQ (Analog Obsession)
+TREQ (Analog Obsession)
+TUBA (Analog Obsession)
+
+Chorus:
+
+Azurite (Distorque)
+CH4d (J1000)
+Chorus+ (Marco Nelson)
+Chorus WS-1 (Mercuriall)
+DD Chorus (Dead Duck Software)
+GChorus (GVST)
+HY-ChoFla (hyakken)
+JBR Chorus (JBR Plugins)
+KHS Chorus (Kilohearts)
+Magic Switch (Baby Audio) (Part of Baby Audio freebies- sign up w/ e-mail babyaudio.com)
+NA Analog Rack Chorus (Nembrini Audio)
+OSL Chorus (Oblivion Sound Lab) (Juno Chorus)
+SH-1 Chorus (Sweetboy Programmer) (Part of SH-1 plugin pack https://rekkerd.org/sweetboy-vst/)
+Symphonic Ensemble- (Synthescience)
+TAL-CHORUS-LX (Togu Audio Line) (Juno Chorus)
+The Chorus (TheZhe)
+Vapor (Audio Damage Inc.)
+
+Compressors:
+BLOCKFISH (digitalfishphones)
+Broadcast (JB)
+BUSTER (AnalogObsession)
+BUSYERse (AnalogObsession)
+dBCOMP (Analog Obsession) (dbx)
+DD Compressor (Dead Duck Software)
+DensitymkIII (Variety Of Sound)
+GTO (Stephen Brambley)
+kHs Compressor (Kilohearts)
+KT-C (KINGTAO) 32-bit Windows VST, OSX VST and AU 
+LALA (Analog Obsession) (LA-2A)
+LA School Esquire limiter (DSPlug)
+MJUCJR (Klanghelm)
+Modern Apophis (Antress) (SSL comp)
+Modern Deathcore (Antress) Distressor clones
+NastyVCS (Variety Of Sound)
+Pajsoil (Pajczur)
+RedAmption (AudioTeknikk)
+Rombo (Acrobatics)
+Roughrider Pro (Audio Damage Inc.)
+Roughrider 3 (Audio Damage Inc.)
+SL63x (SmackLabs)
+SL473 (SmackLabs)
+SLAX (AnalogObsession)
+SPECOMP (AnalogObsessioN)
+StupidCompressor (SNFK Music)
+T-Compressor (Techtivation)
+TLS-12950LEA (TbT) 32, 64-bit Win VST, Linux
+TDR Molotok (Tokyo Dawn Labs)
+THrillseeker VBL (Variety of Sound)
+ThrillseekerLA (
+TLS-1295-LEA (TbT)
+Varimoon (Analog Obsession) (FairChild 660)
+VeeCompGT (ViperITB)
+XPressor (E-Phonic)
+XStressor Nuke (KiiveAudio) ( Empirical labs distressor)
+YALA (AnalogObsession)
+
+De-Esser:
+Floorfish (digitalfishphones)
+ModernDeEsser (Antress)
+Spitfish (digitalfishphones)
+VeeDeeS (ViperITB)
+Lisp (Sleepy-Time DSP)
+LOADES (Analog Obsession)
+
+
+Delays:
+
+ADC Spread Delay Lite (Audec)
+AMDelay (Adam Monroe)
+Baby Comeback (Baby Audio) (part of Baby Audio freebies)
+Big Tick (Hexaline)
+Bionic Delay (Daniel Bosshard)
+Bionic Supa Delay (Daniel Bosshard)
+ChowMatrix (chowdsp)
+DD MonoDelay (Dead Duck Software)
+Deelay (Sixth Sample)
+Delay Box (Mardo Nelson/Synthescience)
+Delayer (ConcreteFX)
+Discord 3 (AudioDamage)
+Driftmaker (Puremagnetik)
+DubStation 1.5 (AudioDamage)
+DVS Space Echo (Dream Vortex Studio)
+Easy-q-delay (easytoolz)
+easy-supra-delay-Q (easytoolz)
+Echobox D7 (Sender Spike)
+Echo Machine (Plektronix)
+Echomania (Daniel Bosshard)
+Echomaster (SynthEdit)
+Emergence (Daniel Gergely https://daniel-gergely.itch.io/emergence)
+ET-200 (arcDev Noise Industries)
+Flux Interrupter (SynthEdit)
+Flying Delay (superflyDSP)
+Fragmental(ndc Plugs)
+Freefall (Novaflash)
+Fripperronics
+Full Bucket Brigade Delay (Full Bucket Music)
+Granaliser (Dominik Popinski) granular delay
+Grecho (Quilcom) Granular delay
+Gressor (Quilcom) granular delay
+GrevDly (GVST) reverse delay
+Handmade Echo (Minimal System)
+HY-Delay4_free (HY-Plugins)
+Hysteresis (Glitchmachines)
+HZ Delay (HigherHZ)
+Jekyll (Steven Jones)
+kHS Delay
+kHS Dual Delay (Kilohearts)
+LaGrange (UrsaDSP)
+Leet Delay (Sonic Anomaly)
+Liscdelay (saltline)
+Magic Dice (Baby Audio)
+MGF-tripletap (MGF Audio)
+PDeelay (Matias Monteagudo)
+Ratshack reverb/delay (AudioDamage)
+Reflex free (stw-audio)
+Replicant (AudioDamage)
+Regrader (igorski) degenerative delay. Win64 and OSX 
+reverseDelay (EmRys)
+RhythmDelayFree (D10Labo)
+Roku (Glitchtek)
+SC Delay (SoundCraft)
+SD-2 (ChiaranTune Audio Technologies)
+SpeculumFree (Decade Bridge)
+Shuttle Echo (SynthEdit)
+T-Rex Delay (Max Project)
+T-Rex Delay Mini adv (Max Project)
+Tal Dub I, II, II (Togu Audio Line)
+Tape Delay (Daniel Bosshard)
+Valhalla FreqEcho (ValhallaDSP)
+Valhalla Supermassive (ValhallaDSP)
+Violent delay (Bitsonic)
+WatKat tape delay (GSi)
+
+
+Emergence (Daniel Gergely) (granular, very cool)
+Flying Delay (superflyDSP)
+Full Bucket Brigade Delay (Full Bucket Music)
+Magic Dice (Baby Audio freebies) (random delay)
+Valhalla Supermassive (Valhalla DSP) (excellent)
+
+Distortion/Saturation: 
+7 Inch Nails (Killapluggies) distortion pedal emulation.
+BL Saturate (BlueLab)
+BPB Saturator (https://bedroomproducersblog.com/free-vst-plugins/bpb-saturator/) Simple Tube/Tape saturation
+Bratwurst Fuzz (Doom Plugs) Fuzz pedal
+Burier (Kit Plugins) 
+Camel Crusher (Camel Audio)
+Cymatics Diablo Lite (Cymatics)
+Deep Crunch (Heptode) (Soldano SLO preamp)
+Distox (Analog Obsession)
+Dominion (digitalfishphones)
+Drivefactor (Marco Nelson)
+Dystroyed (Damaged Records)
+FETISH (AnalogObsession)
+FKFX Influx (FKFX)
+FreeAmp (Klevgrand)
+freeTILT (Mixland)
+GSATplus (TBProAudio)
+GreenEugene (AudioTeknikk)
+Heavy Tone (Heptode) (Soldano SLO preamp)
+IVGI2 (Klanghelm)
+kHs Distortion (Kilohearts)
+kHs Phase Distortion
+Kombinat
+Kombinat DVA (Audio Damage)
+Lawnmower (SynthEdit)
+Marauder (kakl audio parlour)
+MIAfat (MIA Laboratories)
+MIAMuscle
+MIAThin
+Misstortion 2 (Nible Tools)
+MT-A (Mercuriall) (Boss Metal Zone)
+OuraDrive (Dr. Speaker Blower)
+Overdrive Pedal (Viator DSP)
+Plastic Funeral (unplugred)
+PreFET (accentize)
+Reticula (SynthEdit)
+RescueMK2 (Variety Of Sound)
+rf Destroyer (FlowStone)
+RubyTube (Silverspike)
+Scar Unlimited (AcmeBarGig)
+SpScraper (Rebel Audio)
+SP Fuzzploid (Shameless Plugs)
+SP The Dom (Shameless Plugs)
+Szechuan Saturator (Coda Labs) (https://codalabs.io/szechuan/)
+TAL Tube (Togu Audio Line)
+Temper (Creative Intent)
+Thrummaschine (de la Mancha)
+TNT (Dr. Speaker Blower)
+VDist (Violin Melody) (https://violinmelody.net/plugins/vdist/)
+
+
+
+
+Drum/Percussion:
+Black Noh Snare (chokehold)
+Bucketpops drum machine (Full Bucket Music)
+Complete Drums (Fretted Synth) (sampler)
+Chau Gongs (Alan ViSTa)
+Clavestinas (Alan ViSTa)
+Clear Glass (Quiet Music)
+Cloudrum (Ample Sound) (hang drum)
+Crotalinae (Alan ViSTa)
+Drum Pro 64 (StudioLinkedVST)
+Drumatic 3 (Peter-Jan Arts)
+Elsita drum machine (MODE MACHINES)
+H-Drum (Samsara) (hang drum)
+Hexagon 85 (Marvin VST) (Simmons hexagon drum synth)
+JM-1 (Junn) (Linn Drum machine)
+Kettle Drum (Samsara)
+MagicDrum Lite (QuietMusic) steel tongue drum
+Marimbaphonic (Alan ViSTa)
+MeloTank (QuietMusic) tank drum
+Ocet drum machine (elektrostudio)
+Off-Grid drum machine (FlowStone)
+Orchestra bells (Alan ViSTa)
+Shaker Maker (Musicrow Group)
+Sim-Djembe (Quilcom)
+Sim-Dunun (Quilcom)
+Sim-MBIRA (Quilcom)
+SweetDrums (AnalogObsession) 
+Rhythm Master drum machine
+Rhythmus retro drum machine (Robert Kryzwicki)
+Rototoms (Alan ViSTa)
+SD2100 drum sampler (yannick spycher)
+Snarebuzz (Wavesfactory)
+SUB Analog Drums drum machine (Sampleson)
+Supermatic S12 retro drum machine (MODE MACHINES)
+Synsonics V (MODE MACHINES) (mattel toy drums)
+T. Rex 606 drum machine (Max Project)
+T.Rex 64 drum machine (Max Project (Commodore 64 drums)
+Tabla (Samsara Audio Cycle)
+Takim (SynthEdit)
+Thai Gongs (Alan ViSTa)
+The Gong (SampleScience)
+Varazuvi Bongos (Varazuvi)
+VSCO Timpani (bigcat instruments)
+Woodblocks (Alan ViSTa)
+
+
+
+
+EQ:
+30 Band Graphic EQ (Mildon)
+Black Dragon (Antress) (Pultec EQP-1A)
+Blindfold EQ (Audiothing)
+kHS 3-Band EQ (Kilohearts) (part of kHS bundle)
+PushTec (Leftover Lasagne) (Pultec)
+RRS EQ560 (Fuse Audio Labs)
+RS-W2395C (Fuse Audio Labs)
+SSQ (Analog Obsession) (SSL)
+STEQ (Analog Obsession)
+sTilt (tbProAudio)
+TDR Nova (Tokyo Dawn Labs)
+TDR VOS (Tokyo Dawn Labs)
+Tilde~Q (Shameless Plugs)
+TILTA (Analog Obsession)
+Uraleq (Flandersh Tech)
+Warmy EP1A V3 (Kiive Audio) (Pultec)
+
+
+
+
+Enhancement:
+Boost (Steven Brambley)
+Clarity 2 (SynthEdit)
+SEND (JB)
+BL Air (BlueLabs)
+Fresh Air (Slate Digital) (https://slatedigital.com/fresh-air/)
+ReFine (lkjb)
+Vastaus HF enhancer (Wavegrove)
+
+Flanger:
+DLYM (Imaginando)
+Flanga (SynthEdit)
+Flager Box (Marco Nelson/Synthescience)
+kHs Flanger (Kilohearts)
+Purple Nurple (Rock Hardbuns)
+St. Flanger/Ned Flangers (SynthEdit)
+TAL Flanger (Togu Audio Line)
+Blue Cat's Flanger (Blue Cat Audio)
+
+FX (Misc):
+Backmask (freakshowindustries)
+MISHBY (freakshowindustries)
+Dumpster Fire (freakshowindustries) (https://freakshowindustries.com/; option to pay $0)
+PAL-9000 random noise (MaxSynths)
+Fracture (Glitchmachines)
+Hysteresis (Glitchmachines)
+Bondage (Z3 Audiolab) modular synth GUI multieffect
+
+Gate:
+DD Gate (Dead Duck Software)
+DVS Neon Gate (Martin Best)
+Free87 FR-Gae (eareckon) part of eareckon plugin bundle (https://www.eareckon.com/en/products/freebies.html)
+Gatelab (Audiomodern)
+GatePlusSC (Fretted Synth)
+GGate (GVST)
+kHs Gate (Kilohearts)
+kHs Trance Gate
+killerGATE+ (warren Bones)
+NA Analog Rack Noise Gate (Nembrini Audio)
+NoiseSuppression (VTaramps)
+SEGX2 Gate (Sonic Anomaly)
+Shen-Gate/EQ (Samsara)
+tb_breakdown (tweakbench)
+BPA Gate (Bob Perry Audio)
+Cymbal Killer (Low Wave Studios)
+Denoiser (Bertom)
+FKFX Noise Bleach (10 second nag screen)
+
+Harmonizer/Doubler/Octaver:
+ADT (Vacuumsound, Olaf Matthes)
+DoubleTracker (VTarAmps)
+Duet (Martin Eastwood Audio)
+kHs Ensemble (Kilohearts)
+OC-D2 (Christopher Hooker) (Boss OC pedal)
+Octaver 12B (tBt)
+Symphonic Ensemble (Marco Nelson/Synthescience)
+VocalDoubler (iZotope, Inc.) (sign up for iZotope freebies with e-mail https://www.izotope.com/en/products/free-audio-plug-ins.html)
+
+Instruments:
+Spitfire BBC Symphony Orchestra (free at Spitfireaudio.com)
+Accordian (Safwan Matni)
+Aspen Clarinet (bigcat)
+Mini DiZi (KongAudio)
+Mini Erchu (KongAudio)
+DSK Indian DreamZ (DSK)
+DSK Music Box (DSK)
+DSK Saxophones (DSK)
+easy-oboe (easytoolz)
+Glass Armanica (SynthEdit)
+Hurdy Gurdy (Samsara)
+Ixox Flute (Ixox)
+Kamanjat (SynthEdit)
+Kanun (Safwan Matni)
+Murali II (Samsara)
+Music Box (Samsara)
+Ocarina (Samsara)
+Saxophia (Fanan team)
+SIM-CHAU gong(Quilcom)
+SIM-DIZI flute(Quilcom)
+SIM-HC harpsichord (Quilcom)
+SIM-SHENG chinese mouth organ (Quilcom)
+Sonatina Choir (bigcat)
+Sonatina Orchest (bigcat)
+Syntar sitar (MSA Enterprised Limited)
+Vibromaster vibrophone (Alan ViSTa)
+VPS zithers (Samsara)
+VSCO Harp (bigcat)
+VSCO Zither (bigcat)
+VSCO2 CLarinet (bigcat)
+VSCO2 Viole sect (bigcat)
+VSCO Xylo (bigcat)
+Xylo Wood (Reflekt Audio) (https://reflektaudio.com/product/xylo-wood/)
+Xylo Toy (Reflekt Audio) (https://reflektaudio.com/product/xylo-toy/)
+Sonatina Xylophone (bigcat)
+DSK Asian DreamZ (DSK) 
+
+Limiter:
+CL36 softclipper (Jovan Iljadica)
+Clipstar (Steven Brambley)
+DD Limiter (Dead Duck Software)
+Free87 FR-Limit (eaReckon) (part of eareckon free bundle)
+Frontier Limiter (D16 Group Audio Software)
+Esquire (King Oz Records)
+Limiter Box (Marco Nelson/Synthescience)
+Limiter No 6 (Vladislav Goncharov)
+ModernLimiter (Antress)
+SL63x (SmackLabs)
+SN05-G (Sender Spike)
+Thrillseeker VBL (Variety of Sound)
+Unlimited (Sonic Anomaly)
+W1 Limiter (George Young)
+BT-Clipper (Viator DSP)
+Titan (DSPlug)
+Kolin (AnalogObsession)
+Leveling Tool (AdHd)
+LimiterOne (CISDSPFACTORY)
+Loudmax (Thomas Mundt)
+OSS limiter (AnalogObsession)
+
+Mastering:
+Mhorse P3 Mastering Processor (TWest productions)
+Masquarade Xtra (Twest productions)
+Crosstalk 2 (Sleepy-Time Records)
+Quantum Mastering LPEQ (Quantum-music.ca)
+TDR Kotelnikov (Tokyo Dawn Labs)
+
+Mid/Side:
+MS_Controller (RazAudio)
+Sideral (Dr. Speaker Blower)
+Violent Mon-Ster (Bitsonic LP)
+Cana SCL (Cana San Martin)
+DSPplug Blumlein Haas (DSPplug)
+MSLR (HASound Post)
+Phantom Center (Bertom)
+
+MIDI:
+Dodo MIDI- Audio to Midi (Dodo Bird)
+AUto Midi CC (Fretted Synth)
+Junction- mono audio to MIDI (Fretted Synth)
+Peakfreak (Tobybear)
+Synodeia2 (Matias Monteagudo)
+NoteMapper (CodeFN42)
+midiWah (PerspectiveSound)
+Transition (CodeFN42) generative midi sequencer
+
+Modulation:
+Hula (SynthEdit)
+Hulo (SynthEdit)
+IO/RingMod (benoit serrano)
+kHs Ring Mod (Kilohearts) (part of kHs essentials)
+Makunouchi Bento ring mod (Big Tick)
+NSP Wahman (NSP)
+ring thing (Steben Brambley)
+Wah ML (Fretted Synth)
+Wah Stomp (Fretted Synth)
+Wah Wah (Fretted Synth)
+Wahzi (Samsara)
+Flying-AutoWahwah (superflyDSP)
+Grain Strain envelope grain (Full Bucket Music)
+TED-PHZ-FLNG-CHRS (Edward Houldsworth)
+ValhallaSpaceModulator (Valhalla DSP)
+
+Pedals:
+BOD (TSE) (bass sansamp)
+Rangebastard (distorque) (Dallas Rangemaster)
+Whamdrive (Auraplug) (Digitech Whammy)
+Fuzz-Stone (audiorammer)
+face bender (Distorque) (fuzzface)
+FuzzPlus2 (Audio Damage)
+Greed Smasher (Mercuriall)
+NA 808 Overdrive Pro (Nembrini Audio) (Ibanez tubescreamer)
+NA Clon Minotaur (Nembrini Audio) (Klon Centaur)
+MT-A (Mercuriall) (Boss Metal Zone)
+Nu-Tron (mokafix audio) (mu-tron)
+Muff (EFM) 
+PlusDistortion (Distorque) (MXR Distortion+)
+BlackBooster (NSP)
+Octave Dirty Fuzz (DamyFX)
+octBuz (Kenichi Watabe)
+TSE R47 (TSE Audio) (ProCo Rat)
+NA Black (Nembrini Audio) (ProCo Rat)
+ProF.E.T. (Ignite Amps)
+SoftAmp GT (AXP)
+Deep Crunch (Heptode) (Soldano SLO 100 preamp crunch channel )
+Heavy Tone (Heptode) (Soldano SLO 100 preamp overdrive channel )
+Subscreamer TS-999 (Ignite Amps)
+Tyrant Screamer TSB-1 (Ignite Amps)
+Bratwurst Fuzz (Doom Plugs)
+BYOD (ChowDSP) (multiple pedals)
+DoDoD (AnalogObsession) (DoD 250)
+The Klone (Fazertone) (Clon Centaur)
+ChowCentaur (ChowDSP) (Clon Centaur)
+GUNNER (AnalogObsession) (Marshall Guvnor)
+OverDriver (AnalogObsession)
+Overdrive Pedal (Viator DSP)
+PEDALz (AnalogObsession) (5-in-one OD/Dis)
+PigPie (AnalogObsession) (Fuzz Pi)
+Zupaa (AnalogObsession)
+
+Phase/Polarity:
+Phasebug (BetabugsAudio)
+Correlometer (Voxengo)
+Flipper (reFuse Software)
+
+Phaser:
+BassPhaserV10
+DD Phaser (Dead Duck Software)
+HY-Phaser (Hy-Plugins)
+kHs Phaser (Kilohearts)
+Phase Two (Audio Damage) (Mu-Tron Bi-Phase)
+MXR Phase 90 (Team Air)
+OB-PS 1 (SimulAnalog)
+Phaser 2/8 (Marco Nelson/Synthescience)
+Purple Nurple (Rock Hardbuns)
+Sanford Phaser (Sanford Sound Design)
+SH- PhaseSifter (sweetboy programmer) (Part of SH-1 bundle)
+sweeper (SynthEdit)
+TAL Phaser (Togu Audio Line)
+twinPhaser (EmRys)
+Violent Phaser (Bitsonic LP)
+Blue Cat's Phaser 3 (Blue Cat Audio)
+ChowPhaserMono (ChowDSP)
+Dr. Phase (Audiority) (MXR Phase 90)
+Phazor (AdamSzabo)
+
+Piano/Organ/Keys:
+
+Tremolo/Vibrato:
+AmTremolo 64 (Adam Monroe Music)
+AutoTremWahLight (pechengfx)
+DD Tremolo (Dead Duck Software)
+HY-tremolo/panner (Hy plugins)
+
+
+Tuner: GTune (GVST)
+NA Tuner (Nembrini Audio)
+
+Visualizer/Spatializer:
+Omnisone (JB)
+Ozone Imager 2 (iZotope)
+TB_OmniSone (ToneBoosers)
+VU (unplugred)
+BL Wav3s (BlueLab)
+
+Vocals: 
+Acquavox (Acqua)
+DSP-2 (Massimo Bosco)
+Vocoral (Quilcom)
+CANA Epic Vocals (Cana San Martin)
+Couture (Auburn Sounds)
+Graillon (Auburn Sounds)
+Vocal Doubler (iZotope, Inc.) (free- apply w/ e-mail)
+Vocal_King (JHudStudio)
+
+Vocoder:
+ERSATZ (eric langou)
+Gangnam Vocoder (Softrave)
+TAL-Vocoder-2 (Togu Audio Line)
+V O C O T R O N (eric langou)
+v-coder (Team AiR)
+Vocoder (SynthEdit)
+vOcOv2Capture (g200kg)
+Rovee (g200kg) (voice changer)
+vOcOv2 (g200kg)
+VST Speek (Speakosaur) txt-to-speech
+La Voz Cantante (MV's Plugins)
+
+
+First off I'd like to mention these:
+https://ryukau.github.io/VSTPlugins/ UUhyou plugins- All seem to be cross-platform. Boring GUIs, but very current plugins and should run well on new systems
+Also there are a couple other great free plugins from Quiet Music (quietmusic.eu) that I didn't really mess with because they are more dealing with pre-existing samples and generating beats and such, whereas I'm trying to deal with things that could be considered instruments in the sense they are individual building-blocks of a greater piece, rather than trying to form full "beats" themselves, if that makes sense. But given the quality of the plugins I've tried I'm sure they sound and perform wonderfully, and are cross-platform.
+
+Also, there are quite a few plugins made by KBPlugs and SynthEdit etc. That are essentially hardware emulations of old analog gear and often have a GUI that resembles the hardware it's emulating, but often they don't come with any presets and I usually don't tend to include those as they take a lot of tweaking to really get into and I want things that are sort of immediately gratifying. Presets kind of help get to the essence of a plugin faster in my opinion, and better understand its capabilities. I do have a lot of them on my DAW, but I will probably get around to experimenting with them much later down the line, if at all given so many other available options.
+
+Synths: 
+(All for 32-bit Windows .VST unless noted)
+
+1936 (Trubia Labs) soviet style analog w/ oscilloscope. For Windows 32-bit vst. Rating:  A-
+1984 (pianovintage) very old-school analog sounding w/ GUI keyboard- sounds are tuned a fifth above what's played. 10 presets- not super lush but janky in a realistic way and very Moogish at times. Simple but cool. GUI looks like a classic analog synth w/ keys and chipped wood to boot. For Windows 32-bit vst. Rating:  C+
+2Rule (2Rule) Hybrid synth. Extremely flexible sounds, due to its multi-mode synthesis. A very slick GUI w/ keyboard and visualizers, giant amount of presets, and availabiliy on Windows 64-bit VST and Mac Au and VST make this a rare A+
+44 S (GTG) analog 6 voice synth. Cool retro GUI w/ keyboard, bunch of presets and an authentiv vintage sound. Rating: B+
+4Front E-Piano (4Front) Sampled E-paino module. Very good sound, but no settings, and no presets. Availability on Windows 32 and 64 bit, and Mac OSX VST. Rating:  A-
+4Front Piano (4Front) Sampled Upright piano module. Again, good sound, but no presets or settings. Available on 32 and 64 bit Windows, MAC OSX VST and AU. Rating: B+
+4Front Rhode (4Front) Sample Electric piano module. Good sound but- actually does have some settings this time. Even some reverb! But not very good reverb. It tried at least. Available on 32 and 64 bit Windows VST and Mac OSX VST and AU. Rating: A-
+707 (Pianovintage) Sampled Roland TR-707 drum machine. GUI looks like a vintage module, and the sounds are immediately recognizable. Very fun bit of virtual kit. No presets. B
+
+Abstractor (miniSoftmusik) Analog/FM/AM. Sounds good, versatile. Lots of presets. For Windows 32-bit vst. Rating:  A-  
+acidrack (acid.milch-und-honig) cool old school very analog sounds. Handful of presets. Rating:  B+
+ADHDidi (Saltline) additive synth- very unusual metallic sounds. Lots of presets. For Windows 32-bit vst. Rating:  A-
+ADK (Krakli) Spectral additive synth- unusual, distinct sounds. Lots of presets. Rating:  A-
+Adonis (B Serrano) Hybrid synth. Extremely versatile, like most of the Serrano plugins. Huge amount of customisability in the detailed-yet-attractive GUI, and a hell of a lot of presets. Rating: B+
+Aegis Sonix (Xenobioz) Amiga Sonix synth emulator- drawable waveforms on the GUI- looks kind of jank but sounds super cool. Tons of presets. A personal favorite. Rating:  A-
+Aeolian Meditation (Ocean Swift Synthesis) soundscape synth. Cool GUI, neat ambient sounds and textures. Tons of presets. For Windows 32 and 64-bit vst. Rating:  A
+Aethreal (Psychic Modulation) Ambient vector synth. Interesting GUI w/ joystick- very interesting, atmospheric sounds. Lots of presets. Rating:  A-
+AlienSpaceWeaver (HG Fortune) cool ambient/Sci-Fi/FX sounds. Not so much for traditional music but sounds super neat. Lots of presets. Rating:   B+
+Alpha Free (Linplug) Subtractive synth. Thick analog sounds. Lots of presets. Above-average GUI for a free synth and very cool sounds and presets.  Rating: B+
+Alpha I(EFM) Alpha Juno 1 emulation. Underwhelming GUI but very good, usable sounds. One of the better Alpha Juno soft synths. EFM makes good stuff. Lot of presets. Rating: A-
+Alpha II (EFM) analog style synth. Underwhelming GUI but thick, very usuable sounds. Lots of presets. Rating:  A-
+Alphatron and Alphatron SE (HG Fortune) Thick old-school analog sounds. Alphatron features a sequencer, SE does not. Good amount of presets. Rating: B+
+Altair 4 (HG Fortune) weird sci-fi sounds- interesting GUI with visualizer- super neat ambient sounds- not great for tonal music but for interesting sounds. Lots of presets- a personal favorite. Rating:  A
+Alice-1377 (Syncersoft) Alisa-1377 Soviet synth emulation. Very neat janky old-school analog sounds. Lots of presets. Rating:  B+
+Alpha Ray (TubeOhm) Cool GUI w/ keyboard- big, vintage sounds. Loads of presets. Rating: A
+Analog Voice (Syncersoft) Very thick analog sounds. Good amount of presets. Rating: B+
+Analogue Mini (Minimal System) Very rich analog sounds. Above-average GUI that tries to echo the aesthetic of vintage hardware complete with woodgrain. Good amount of presets. Rating:  B+
+Anemone aka Pampulse on Plugins4Free (Funk Station) Suprisingly rich sounds for its appearance. Handful of presets. Rating: B
+Angle (Xoxos) 3D oscillator synth. Pretty wild sounds- mostly percussive/atonal but can make pretty mean melodic sounds too. Good amount of presets but mostly percussive/atonal. Rating: B
+Anti-Transpirant (TubeOhm) Cool and colorful GUI with integrated keyboard. Huge and rich old-school analog sounds. Tons of presets. Killer plugin, personal favorite.  Rating: A+
+Anvilia Pro (HG Fortune) Very neat, atmospheric sounds. Good for ambience, but can still produce very good tonal music as well; good for soundtrack/score work. Tons of presets. Rating:  A-
+Anubis (B Serrano) Hybrid synth. Versatility is the name of the game with Serrano plugins, and Anubis is no exception. Great at the cold, clear, crystalline sounds of FM synthesis, but can also pull off more traditional analog sounds as well. Makes great string sounds, among other things. Its mountain of presets give some clue as to its flexibility. A pretty and functional interface help make this a very powerful tool. Rating: A-
+Aspen Clarinet/Cornet/Trombone/Bass Trombone (bigcat instruments) very passable woodwind/brass. Simple GUI with keyboard and ADSR controls. Combine with reverb and it is very convincing- no presets, staccato and sustain for clarinet and cornet. For Windows 32, 64-bit and OSX. Rating:  A-  
+Asper (zOne.sk) experimental synth. 114 wavetables to mix and match. Very attractive GUI with nice visuals, tweakbility and functionality, a bunch of presets, but most important- absolutely beautiful sound. Available for 32 and 64 bit windows. Rating: A
+Asian Dreams (DSK) ethnic asian instruments player. 8 sampled instruments including Koto, Biwa, Erhu etc. w/ adjustable reverb. Available for 32 and 64-bit Windows VST and OSX VST and AU.  Rating: B
+Ancestor (NovaFlash) paraphonic synth/organ. Very cool "rough" old-school sounds. Not good for "sweet" tones. 60+ presets. Rating: A-
+Arido (Solcito Musica) additive synth w/ FM feature. Very neat GUI and lots of presets. Very versatile and musical sounds possible. Available for 32 and 64-bit Windows.  Rating: B+ (docked slightly for nag window at startup but goes away with a click)
+Arminator (Krakli) CS-80 emulation. This is probably in my top 5 favorite softsynths of this whole list. It sounds huge- I love to sit and play on it for hours. Its gui looks like a CS-80s control panel and it has a keyboard. It also has a metric ton of presets and they all sound classic and awesome. Great Vangelis sounds- this thing makes me very happy. One of the whole reasons I did this list. Rating: A++
+Atonoise (HG Fortune) atonal synth. Unique GUI and more unique sounds. Very spooky and ambient. Can accept audio or MIDI input- great for soundscapes and creepiness. Rating: A-
+Athmonova (L-Day) 2 osc, great techno trance sounds- very full. Good handful of presets. Rating:  B+
+Autogun (Image Line) Interesting plugin- Neat little GUI with small keyboard and 4294967296 presets (yes, effectively infinite- type in random number for inspiration) No tweakability but that isn't the point- good if you're stuck; search random numbers and see what they sound like. Not tweakable but that isn't the point of it. Good sounds, too. 4294967296 presets. Rating:  A-  
+Avatar ST (HG Fortune) Good for pads and soundscapes. Very atmospheric. Lots of presets. Rating:  A-
+Awesome Piano (Digital Sytemic Emulation) Slightly out-of-tune upright sound. Great for dissonant, imperfect piano sounds. A couple tweakable parameters and reverb. Not super in-depth but a neat one-trick pony. Pristine piano plug-ins don't sound great anyway. Pair it w/ your favorite reverb and instant Sherlock Holmes. Rating: B+ 
+
+Basic (Audio Damage) 3 osc mono-synth. Super cool GUI. Lots of presets. Huge sound; personal favorite. For Windows 32, 64-bit and OSX. Rating: A+
+Basic 65 (de la Mancha) Commodore 64 inspired synths. Very neat 8-bit retro sounds. Lots of presets.  Rating: B+
+Basscruncher (L-Day) 303 bassline mono synth. Decent amount of presets. For Windows 32-bit vst  Rating: B
+Bassline (EVM Synths) WaveSample Bass Player. Cool retro bass sounds- realistic but in the weird artificial sampler kind of way- very usable. Good handful of presets to start. Rating:  B 
+BBC Symphony Orchestra (Spitfire Audio- must have Spitfire Audio app and install via website) Gorgeous, professionally-recorded orchestra with all the instrument sections. Absolutely stellar sounds; insane that this is free. A must have. Available for Windows AND Mac. Rating:  A+!
+BellsEbuth (Alan ViSTa) Orchestra bells (glockenspiel) sampler. Small GUI w/ tiny keyboard and great-sounding samples. Sustain and Release control. Throw on your own reverb for great results. As usual eith Alan's stuff, available on 32 and 64-bit Windows VST and OSX VST and AU Rating: A+
+Borderliner (Tobybear) Interesting CMYK-based GUI. Cool for experimenting without usual parameters and knobs. Also comes with FX version of the plugin as well as a synth. No presets.  Rating: B-
+Bravette Home Organ (Samsara Audio Cycle) Neat GUI with old home organ switches- has rhythm switches for different backing beats with old-school first-generation drum machine sounds- switch on multiple ones simultaneously (like waltz+rock for a compound 3 over 4 feel). Not super hi-fi thick sounds, but captures that quaint, 1960s home organ vibe. Rating:   B
+Bleep (TonyBytes) Inspired by MOS Technology SID chip. GUI resembles Commodore 64 but isn't a totally faithful copy. Very cool retro chiptune sounds- I use it a lot. Tons of built-in presets. Rating:  A
+Blooo (Full Bucket Music) subtractive synth. Big Blue GUI with tons of parameters, a boatload of presets and most important- a thick silky analog sound. Available for 32 and 64-bit Windows, OSX VST and AU. Rating: A
+Breezy Day (Malaclypse the Younger) wind chimes. Several types, playable indivdually or sweeps. Not super in-depth GUI but does enough to get the job done. No list of presets. Rating:   C+
+Brzoza (Saltline) 2 Operator FM synth. Very unique and usable sounds. I like this one very much- Saltline does good work. Bunch of presets.  A
+Bucketpops (Full Bucket Music) KORG Mini Pops-7 1966 drum machine emulation. Super retro sound with super cool GUI. 20 original rhythms, 15 modeled (not sampled) instruments. Lots of presets and an awesome retro sound. Even better, it's available for 32 and 64-bit Windows VST and Mac OSX VST and AU. Rating: A
+
+
+Cadencia (Contralogic Productions) Don't let the boring GUI fool you, this thing makes super cool chiptunes sounds. Good little handful of presets. Rating:  B+
+CDS-2 (EFM) Analog synth. Something about this plugin, it has an absolutely MASSIVE sound. The first preset reminds me of the PS1 boot screen with that huge filter sweep on the bass note... I love it. A bunch of great presets starts you off. A nice champagne-colored GUI is very functional, but the sound is where it's at. Rating:  A+
+Chip32 (Sam) 8-bit wavetable synth. Small-but-effective little GUI where you can construct the wavetable yourself- for being 8-bit sounds, it's actually super pleasing to my ear and I love this thing. A good handful of presets, and the simplicity is beautiful. Great to get introduced to wavetable synthesis. An unlikely personal favorite. Rating:  A+
+Casiopea (Marvin Pavilion) Phase Distortion synth. Very convincing old cheap synth sound. Nice, effective little GUI allows you to tweak the essential parameters like on a consumer-level 80s synth. No presets but no big deal- good at what it does. Rating:  B+
+Casio VL1 (Polyvalens) Casio emulation. Does the cheap janky synth sound to a T. Cool GUI recreats the interface, complete with 30-year-old dirt. Handful of presets get you started. I've known it to be about 4% sharp but you can tune it with the interface. Great for lo-fi; I really dig it, even with the little tuning issue. Rating:  B+
+Celesta (Necromare) Don't be fooled by the age and humble GUI (w/ built-in keyboard) this is a wonderful-sounding and realistic instrument. I use it all the time. No presets needed. Rating:  A+
+Cheapo Tone (Mokafix) Yet another Casio VL-1 emulation. GUI looks just like a clean VL-1 and has all the functionality- even has a few drum pads as well. No list of presets, but all the switches on the GUI achieve that anyway. Probably the best of the 3 VL-1 copies on this list. Love this little thing. Rating:  A-
+Cedr (Saltline) 2 oscillator subtractive synth w/ a 16 step pitch sequencer matrix. Very unique and rhythmic sounds, lots of tweakability. Lots of presets. Rating:  B+
+Charlatan (Blaukraut Engineering) 2 osc analog synth. Pretty cool GUI and good oscillator sound. No preset, but it's fun to tweak it yourself. High ratings online. Rating: B+ (docked for lack of built-in-presets)
+Chau Gongs (Alan ViSTa) Sampled Chinese gong player. 4 types, tweakable parameters- cool little GUI. Best of all it's available for Windows 32 and 64 and OSX, in VST and AU Rating:  A-
+Church Organ 2nd (C Hackl) Pipe organ plugin. Pretty convincing sound- decent tweakbility. Several types of organ presets. Throw on some reverb and you're really cooking.  Rating:  B+
+Cobalt (Leslie Sanford) Hybrid synth. Awesome GUI with tons of tweakability, awesome sounds and a boatload of presets. Great ratings online and a favorite of mine. Available in Windows 32 and 64 bit, VST. Rating: A+
+Collab3 (Sampleson) Hammond B3 emulation. Absolutely stunning- great, realistic sounds and a beautiful interface that has all the aesthetics and functionality you'd want in such an instrument. A great batch of presets for different vibes, but best of all- complete cross-platform availability. Windows, Mac and Linux! A+
+Clap of Luxury (Xoxos) handclap generator synth. Surprisingly detailed interface. Handclaps are a notoriously and strangely hard sound to imitate but this provides a neat variety of synthetic variations. Tons of presets, interestingly. Rating:  A- 
+Clavestinas (Alan ViSTa) 7 different pitched sampled claves. Adjustable volume, panning, dynamic range, reverb. Simple but great percussive sound. No presets needed. Best of all, available for 32 and 64 bit Windows, Mac OSX VST and AU. Rating:   A+ 
+Clear Glass (Quiet Music) Crystal wine glass virtual instrument. Lovely, crystalline twinkly percussive sounds. Ajustable parameters, built-in reverb. Several presets for different vibes. Sounds like these are begging to be drenched in effects but sounds great dry as well. Available on Mac and Windows. Rating: A (Get it at https://quietmusic.eu/clear-glass
+Clog Boxes (Alan ViSTa) Woodblock set. Great samples from a public domain library. 5 woodblocks with adjustable panning, volume, dynamics, and reverb. Rock solid like all Alan's stuff. Mac and Windows availability make it yet another A+. Rating: A+
+Cloudrum (Ample Sound) Steel tongue drum/Hang drum sampler. 3 octaves, adjustable parameters, beautiful GUI, and lovely sounds make this a fantastic instrument plugin. But best of all, it comes in 32 and 64 bit Windows, as well as OSX VST, AU, and Mac RTAS. Rating:   A
+Combo Model F (MartiniC) Farfisa Mini Deluxe Compact organ emulation. Nice retro sound, neat GUI with all the old-school switches. Lots of presets top it all off. Throw on a good tape emulator and big plate reverb for a nice 60s nostalgia trip. Best of all available in Windows 32 and 64 bit VST as well as Mac OSX Vst and AU. Rating:  B
+Combo Model V (Martinic) VOX Organ emulation. The controls resemble the vintage controls of the real thing, and the sound is even more authentic. Ton of presets give you that great vibe from all the 60s songs you know. Rating: B+ 
+Contakt (Minimal System) 2 osc synth. Very cool grimy-looking and sounding for a retro vibe that packs character. GUI has a keyboard. No presets but the attractive interface and charmingly mangy sound make it a pleasure to mess with. Rating: B
+Crio (Solcito Musica) analog/FM synth. GUI with keyboard. Very nice sounds, and very good at arpeggiations. Good bunch of presets and neat retro sound make this a surprising favorite of mine. Has a litle nag screen but it goes away with a click so I don't hold it against it. Rating:  A- 
+Crisalys (MaxSynths) pattern sequencer synth. Engine works up to 192 khz. Cool GUI, rich sound and tons of presets. Built-in effects as well make for killer rhythmic sounds  A-
+Crotalinae (Max ViSTa) sampled crotales (chromatic cymbals). 25 stereo 24-bit samples w/ tweakable sustain/release/dynamic/volume. C3 to C5. No presets, but none needed really. As usual, Alan ViSTa plugins are available in Windows 32, 64 VST and OSX VST and AU. Rating:  A-
+Cubix (Psychic Modulation) drumsynth/sample player w/ arpeggiated bassline synth. Interesting and unique GUI and functionality. Tons of presets help create complex unique yet familiar beats. Really reminds me of 90s techno. Rating:   A-
+Cynthia (NineCows) Inspired by EMS Synthi, made famous on Dark Side of the Moon. GUI emulates the unusual modulation matrix of the original, as well as doing a fair approximation of the unique, old-school British synth. Has very good and unique presets, and a very distinct character, good for emulating old English sci-fi sounds, but can also still be very musical. A personal favorite. Rating: A
+
+Daedalus (nB Audio) virtual analog synth. Very pleasing sounds, attractive GUI and good handful of very usable presets make this a keeper. Only downside is a nag screen but it goes away with a single click. Rating:  B+ (docked for nag screen)
+da Hornet (NUSofting) EDP Wasp synth emulation. Cool black and yellow GUI that resembles the real thing (complete w/ keys) are a giveaway that this is an emulation of the classic analog monosynth with the surprisingly huge sound. It also has a huge amount of great vintage sounds as presets. Available on 32-bit Windows and Mac VST. Rating: A+
+Damatriks (Meesha) modular style synth. Detailed interface and good vintage sounds. Handful of presets. Rating:  B-
+Dante (Kriminal) 2 osc poly synth. Analog sound, simple GUI, handful of good usuable presets. Rating:  B
+Darkness Theory 3 (DSK) ambient synth. GUI with 3 osc and 72 waveforms to choose from. Cool for spooky soundtrack work, but can sound pretty as well. Good amount of presets. Rating:   B
+Davosynth (Elektrostudio) Davoslint vintage 1972 Italian synth emulation. Super cool vintage sounds, good batch of presets, neat GUI with keyboard. Rating: A-
+DDX10 (Dead Duck Software) digital FM synth. Handsome simple GUI, tons of presets, and a great vintage FM sound. Available in 32 and 64-bit VST. Rating:  A-
+Defiant WT (Ocean Swift Synthesis) Hybrid Wavetable synth. Pretty little GUI with editable waves, tons of presets and very usable sounds. Available for 32 and 64 bit Windows VST. Rating:  A-
+DEISK O (Samsara Audio Cycle) monophonic analog synth. Cool GUI with keyboard, lots of presets, and a legit vintage sounds. Only gripe is a tiny little yellow nag window that disappears after a few seconds- not obtrusive at all. Cool plugin.  B+ (docked for tiny nag window)
+Dexed (digital suburban) Yamaha Dx7 emulation. Nice GUI w/ keyboard, lots of presets and an authentic FM synth sound makes it a great plugin. Best of all, available in Windows 32 and 64 bit VST and OSX VST and AU. A
+Dionysos (B Serrano) 16-voice polyphonic, subtractive/FM/additive synth. This one is very original-sounding. It has a very detailed GUI and makes a huge array of sounds. Sounds familiar but fresh at the same time. A boatload of presets show you what it's capable of- all the Serrano synths are pretty killer. Rating:  A-
+Dirty Harry (de la Mancha) Based on samples of Atari Punk Console and BugBrand WOM. As the name implies, it makes sicknasty lofi sounds. 20 different waveforms, a cool black and orange GUI and a boatload of presets make it a ton of fun. Not the prettiest sounds, but there are plenty of those to be found- get nasty. Rating:  A-
+DPiano-E (Dead Duck Software) electric piano. Nice, simple GUI, clear sound and handful of presets make it a great tool. One of the best electric piano plugins. Rating:   A-
+Dream Sequencer 2 (Dream Vortex Studio) deep bass sequencer synth. Pretty Blue GUI, small handful of useful presets, and a nice classic sound make this a keeper. Plays ARPs triggered from midi notes. Rating: B-
+Drum Pro (StudioLinked) Cool drum machine rompler with many sampled kits. Cool,  simple GUI and nice vintage sounds. Best of all, comes in Windows 32 and 64 bit VST as well as OSX VST and AU. Rating:  B+
+DVS-8K (Dream Vortex Studio) arpeggiator saw synthesizer. Inspired by Roland Supesaw sounds- Effective GUI w/ keyboard, rhytm editor, bunch of presets, and this thing sounds freaking killer for some reason- it is incredibly thick and massive-sounding and has great modern and 90s dance music sounds. It looks somewhat unassuming but it's one of my favorites. A sleeper for sure. Only for 32-Bit Windows, but it's sounds so good I'm giving it an A+ anyway because it's almost Christmas: Rating: A+
+Drumatic 3 (e-phonic) virtual analog drym synth. GUI has deep customisability for every one of the 7 voices, and a handful of kit presets. Rating: B+
+DvX Vega (EVM Synths) polyphonic arpeggiator synth. Some of the most unique sounds of all the plugins on the list. Cool teal GUI and a huge list of presets make this a personal favorite. Rating:  A
+Dynamite Cowbell (de la Mancha) 6 Cowbells- A3, G3, F3, E3, D3, C3. Controls for room and mic-closeness levels and a Less/More control. But we all know when you got a fever, what the only cure is. No presets, but why would there be? Rating: A
+
+easy-mr. stringer (easytoolz) Retro style string synth. GUI looks like an old string synth w/ keyboard, good handful of vintage presets. Nothing revolutionary, but a solid retro sound. Rating: B-
+easy-tauros (easytoolz) Moog Taurus bass synth emulation. Cool GUI has keys and control knobs for the parameters, great analog sound, and 64 awesome presets. Rating: A-
+Eclipsis (zOne.sk) Hybrid wavetable synth. Unique GUI, and a very distinct and versatile sound. Everything from FX noise, bird tweets, to lush pads and thick bass lines are possible. Boatload of presets to get started. Rating: A
+E-Flex III (GTG) 2 osc analog. Nice black and blue GUI, good handful of presets, and a vintage sound. Rating:  B
+EP-2008 (GTG) electric piano. Simple GUI, small handful of crystal clear sounds- streamlined, extremely usable sounds. Rating:  B
+Ethereal Padz (DSK) 3 Layers, 111 pads to choose from. Good bunch of presets to get you started.  Rating: B
+EightySix (L-Day) analog synth. Big, beefy retro GUI and vintage analog sounds. Good handful of presets. Rating:  B
+Elektrik Piano (Audiolatry) 2 sampled electric pianos. Creatively named "Electric One" and Electric Two". Great, crisp sound. Slick Gui, like all Audiolatry stuff. 2 Presets. Windows 32, 64 bit VST, and Mac OSX VST and AU available. Rating: A+
+Elsita (Digital Systemic Emulations) 89-91 soviet analog drum synth emulation. Very old-school sounding. No presets, but neat GUI with cyrillic. Available for 64-bit Windows VST and Mac OSX AU.  Rating:   B+
+Emulator I (Digital Systemic Emulations) E-Mu Emulator one vintage soundbank- 58 E-Mu Emulator I disks, including Drums set. Recorded from a real Emulator I, manually re-cut and looped. Tons of presets, awesome GUI and KILLER old-school sounds. Might even recognize some like the motor from Depeche Mode's stripped. Just like old samplers, you hear the digital aliasing as the pitch is lower so you get this awesome breathy rasp like the Terminator Soundtrack (it was a CMI Fairlight but still). Absolutely one of my top 10 synth plugins!  Available for 64-bit Windows and Mac OSX AU. Rating:  A++!
+EP-78 (Samsara Cycle Audio) Electric Piano. Simple GUI w/ several parameters including vibrato- nice vintage sounds. Good pile of presets. Available for 64-bit Windows VST. Rating: B
+Esfera and Esfera 2 (beatassist.eu) Both are incredible for atmospheric sounds. Highly detailed GUIs provide deep tweakbility. Great for soundtracks. Available for 32 and 64 bit Windows VST. Rating:  A-
+Esline (Elektrostudio) ARP Solina String Ensemble emulation. Fantastic, vintage sound that are ultra thick. Killer GUI with keyboard that looks like the vintage piece itself, and a bunch of presets to top it off. Elektrostudio rules. Rating: A+ (despite only 32-bit VST for Windows)
+Evol (Xsynth) Subtractive synth, inspired by Roland JX3P. Big retro sounds aplenty. The very GUI is somewhat unique, but still very intuitive. It's another swiss-army-synth; capable of conjuring up a vast array of familiar sounds. Rating:  B+
+Exakt Lite (Sonicbits) 4 OP FM synth. Sweet GUI w/ keyboard, huge tweakability, a bunch of presets, but most of all- great old-school sounds. A favorite of mine. Available for 64-bit Windows VST, Mac OSX VST and AU. Rating: A+
+
+
+FB collection (Full Bucket Music) FB-3100,3200,3300,7999. All fantastic adaptations of vintage analog Korg units, and the sounds and GUI are all on point and have a bunch of presets as well. Cross-platform availability for Windows and OSX make all these A+. Rating: A+
+Feldspar (Contralogic Productions) tempo-based modulation synth. Handsome GUI and very unique and usable sounds. A boatload of presets to get you started. Great plugin and gets regular use in my DAW.  Rating: A
+Firebird (Tone2)  Harmonic morphing synth. Very original sounds; it can do pretty much any classic synth-y sound, but also excels in very "vocal" type sounds. Extremely unique, and I find myself coming back to it again and again. It has a ton of presets, and a really cool GUI with keys to boot. Even with it only being 32-bit Windows VST, I'm giving it an A+.  Rating: A+
+Formant Classic (F tec-Audio) tribute to DIY Elektor Formany synth from the late 70s. Neat GUI w/ keyboard and authentic vintage sounds. Loads of presets- very fun plugin. Rating: B+
+FM-Four (ToneBytes) 4 operator FM synth. Nice GUI w/ keyboard and big blue screen for your seeing your waveforms etc. Add in a pile of great presets and you have a killer retro plugin. Rating: A-
+FMetal (Hinton and Fairchild) FM Synth. "Bass" and "Synth" modes. Harsh but very usable and fun classic tones.Simple but attractive GUI w/ built-in keyboard. A bunch of presets. Rating:  A-
+FM 4 (GTG) FM synth. Black GUI w/ green digital number indicators and a boatload of presets. Legit old-school 80s FM sounds aplenty. A-
+Foxglove (Contralogic Productions) monosynth w/ waveshaping section. One of the more unique-sounding plugins on the list. Unique Yello/green GUI w/ EMS Synthi-like modulation matrix and a handful of very nice presets. Very inspirational plugin. Rating:  A
+Freemoog (Cyclick) Minimoog emulation. 8 note polyphony but otherwise a pretty faithful emulation. The GUI looks like a grey MM with a keyboard and everything. A bunch of classic presets make this one of the better MiniMoog Rating: A-
+Full Synthestra (Marvin Pavilion) vintage style. Neat black minimal-but-effective DX-7-like GUI lets you adjust all the necessary parameters. No presets, but the point is the tweakability. Streamlined. Rating:  B+
+Funkbass (Audiolatry) Bass rompler. Sample based, so it does great Seinfeld style sounds. But also sounds pretty convincing if you put some effort into it. A lot of fun. Slick GUI w/ keyboard and good handful of presets make it a keeper. I keep it just to make Seinfeld style transition music and make myself laugh. Available on Windows 64-bit, Mac OSX VST and AU. Rating:  A+
+Funxion (Xenobioz) hybrid synth. Detailed GUI w/ oscilloscope. Tons of presets. Very versatile yet distinct. Rating: A-
+Fury-800 (Full Bucket Music) Korg Poly-800 emulation from 1983. Sounds epic and vintage, looks amazing and captures the aesthetic of the real thing- add in a huge amount of killer presets, availability on 32 and 64-bit Windows, OSX VST and AU and you get Full Bucket another illustrious A+. Rating: A+
+
+Galileo (MaxSynths) dual osc subtractive synth. Don't let the slightly-tacky GUI and age (13-years) fool you- this is a sleeping giant. Very lush sounds, including a pretty passable Blade Runner CS-80 Vangelis lead. Good pile of presets make this one a sleeper classic in my own DAW. Rating:  A-
+Genesyn 2 (Orchestools) 32 step arpeggiator additive synth. Pretty clean and slick GUI for clean and slick sounds- also has a ton of presets. Pretty distinct-sounding. Windows 64 bit only. Rating:  A
+Gigmate (Manx Synthesizers) Emulation of Moog Concertmate MG-1; mono or poly modes. Super cool retro sound, with very recognizably "Moog" character Cool Gui that resembles the actual hardware unit (minus the keyboard). Add in a load of great presets, and this thing's a great plugin. Rating: A-
+Genny (Superjoebob) Emulation of Sega's Yamaha YM2612 and SN76489 chips. Cool Gui and lots of presets, and great, authentic sound. Only issue is the synth needs to be externally tuned.  Love this (Huge Sega Genesis fan- best old-school soundchip IMO). Available in 32 and 64 bit Windows Vst.  Rating:  B- (docked for tuning issue; easily-remedied however)
+Glass Armanica (SynthEdit) Glass Armonica/Wine Glass sample-based VSTi. Single octave of wine glass samples from Midi note 72-84 (Octave 6). No presets, very limited, but extremely haunting sound. Built in adjustable reverb, ADSR, volume and hi-cut. Add in your own verb, delay, and effects for a super-haunting sound.  Rating: B
+Gnat (Bitsonic) analog/sample based synth. Nice GUI w/ keyboard, 50 presets, great built in FX, but most importantly- fantastic sounds. Great ratings online, and I'm also a huge fan of its super dense and usable sounds. Rating: A
+The Gnome (EVM Synths) 2 wave osc arp synth. Surprisingly powerful and interesting-sounding little synth. EVM always goes heavy on the presets, and it shows what The Gnome can do. A cool and unassuming but very functional GUI helps make it a classic. Rating:  B+
+The Gong (SampleScience) sample gong w/ 4 velocities and 4 articulations. Great, immense gong sound- sounds exactly how you imagine it would. Add some epic reverb and maybe a low-end enhancer for sonic DOOM. Even better yet, available for 64-bit Windows and OSX VST and AU. Rating: A+
+GR-8 (Phuturetone) Analog synth in the vein of Roland Hoover sounds. Super cool sounds, great categorized presets, a lovely big GUI that looks like old analog hardware makes this one of my favorites. Availability on Win 64-bit VST and Mac OSX AU make this one an A+. Rating: A+
+Grand Piano (EVM Synths) simple Grand Piano w/ several tweakable parameters. Simple, no presets, good sound. Put on your favorite reverb and get cooking. Rating:  B
+GrooveBoxII (C Hackl) customisable wavetable synth. Tons of parameters and editability- don't let the slightly-hokey GUI fool you, this thing makes epic sounds and comes with a ton of presets. Very unique and strong.  Rating: A
+Greenwave (ReplicatAudio) dual osc subtractive synth. Very cool GUI w/ integrated keyboard, extremely unique sounds, and a great randomize feature. One of the most unique-sounding plugins. No included presets, but not really a detriment. Available for 64-bit Windows. Rating: A+ 
+Grand Piano XXL (Audiolatry) Sampled Yamaha C5 Grand. Great GUI w/ keyboard- sounds excellent, even has its own reverb. No presets, but what more do you need? Put your own verb on it for best results. 64 bit Windows VST and Mac OSX VST and AU. Rating: A+
+
+H-Drum (Samsara Cycle Audio) virtual Hang Drum. Tweakable parameters in the GUI just like a synth, but sounds very realistic and mellow. Several presets. Rating: B+
+Harmonaut (ToneBytes) additive synth w/ 4 waveform types and 32-drawable harmonics. Neat GUI with adjustable ADSR per each harmonic. Great sounds and extremely customisable. Rating:  A
+Harmonium (Softrave) sampled old Russian harmonium. Tuning is 3 semitones flat of what's played but that's easily remedied if you know what you're doing- the sound is extremely realstic, being sampled from a real antique. Good handful of presets. Rating: A- (docked slightly for tuning issue, but it's a nitpick)
+Harmonus (lostin70s) Magnus Model 300-inspired Harmonium. GUI w/ keys. ADSR, MIDI controls. No presets. Very good sound. For 32 and 64-bit Windows VST, Mac OSX VST and AU. Rating: A-
+Healing Lite (Quiet Music) Singing bowls/meditation sound. 10 singing bowl tones, and a relaxing rainstic-type background noise makes for a super-relaxing instrument. Really nice GUI makes it a cinch to make music with. Lovely instrument. Also for Mac and Windows. Rating: A+ (get it @ https://quietmusic.eu/healing-lite
+Helm (Matt Tytel) polyphonic semi-modular synth. Fantastic GUI w/ built-in keyboard, tons of great presets, and a wonderful and versatile sounds from the lush to the lofi, the subtle to the scary- that would be at home in any era. Availability across 32 and 64-bit Windows VST, Mac OSX VST and AU, and even Linux! Rating: A++! (occasional nag screen but it's dismissed with a single click)
+Hexagon (Marvin Pavilion) Simmons drum synth. Retro 80s electronic drum sounds and neat GUI. Rating: B+
+Hum 808x (Callybeat) Bass synth. Very unique GUI and very crunchy and rude bass sounds. A ton of categorized presets makes this a load of fun. The interface is very intuitive and visually-pleasing, but the sounds it makes are really the best part. 32 and 64-bit Windows Vst. Rating: A+
+HYDi (td) subtractive, unique synth. Cool GUI, no presets, but incredibly unique sounds. Rating:  B+ (docked for lack of presets) 
+HY-POLY-FREE (HY-Plugins) subtractive polyphonic synth. Big, modern GUI with modular FX section, great analog sound, and good batch of presets make this a good plugin. Cross platform availability makes this a really good plugin. Availble for 32 and 64 bit Windows VST, as well as Mac OSX VST and AU. Rating: A (would be plus if it had a few more presets but I'm nitpicking)
+
+IceCream! (CosmicBoy) 8-Bit Chiptune synth. Very neat, colorful GUI w/ loads of tweaks including step sequencer/pitch filter. Really unique and energetic chiptune sounds. Lots of presets. A favorite of mine. Rating: A+
+Indian Dreamz (DSK) 6 indian instruments including Sitar, Sarod and Tabla. Envelope and Filter control. Not the greatest but some sounds are definitely usable. Rating:  C+
+Invader (e-phonic) FX synth. Great for "blippy", "twinkly" sounds. Interesting array of presets, and a cool metallic GUI. Fun instrument. Rating: B
+Isis (EVM) multiwave synth. 10 note polyphony, good handful of starter presets, and a very unique sound. I use it a lot.  Rating: B
+IxoxFlute (Ixox) Sampled Flute. Oldie but a Goodie. Choose one or two flutes, which have 3 octaves. This is a surprisingly-beautiful sounding plugin, especially how old it is. With a lot of reverb, it reminds me of the soundtrack to Shadow of the Colossus. I use it quite frequently and is actually a favorite of mine. Even though it's only 32-bit Windows VST, I'm giving it an A+. Rating: A+
+
+Jazz Baby Piano (Safwan Matni) upright piano. Very clean sound- no presets or effects. Sounds better with some reverb added, but a great sound to build on. Rating:  B
+JEM SX1000(Pianovintage) Jen SX-1000 emulation. Cool GUI w/ integrated keyboard. A bunch of presets. Super thick, vintage sound- sounds almost indistinguishable from the real one. Only issue is has to be tuned but many old analog synths did- there's a tuning control on the interface so no big issue. One of my favorites.  Rating: A (Would be A+ but docked for slight tuning discrepancy)
+JM-1 (Junn) Virtual Linn drum machine. GUI looks just like it and samples sound classic- really fun plugin for early 80s drum sounds. Get your Prince on. Rating: A
+Ju-1 (EFM) Roland Alpha Juno Emulator. Don't let the underwhelming GUI fool you- this thing can make enormous Hoover sounds with the best of them, and has a ton of presets to prove it. EFM is great at making synths that sound fantastic and have a deceptively-bland GUI. Rating:  A-
+JuceOPLVSTi (Bruce Sutherland) FM Synth Yamaha OPL sound chip emulation. Nice minimalist GUI, crystal clear awesome FM tones and a bunch of awesome stock presets make this one a sleeper favorite. Windows 32/64 bit VST and OSX AU available. Rating: A
+
+K1v (Nils Schneider) Kawai K1 emulator. This this is probably my absolute favorite. It has that badass, aliased sound like old samplers had, especially in lower pitches. Reminds me of the Terminator soundtracks, especially the T-1000 theme (Although that was a Fairlight CMI, but still). The GUI looks like the keyboard (without the keys themselves) and it has tons of presets in its various tonebanks. I can't express enough how much I love this plugin and how often I mess with it. This plugin is one of the reason I wanted to do this whole thing in the first place. Add that it's available across Windows, Mac AND Linux. Rating: A++ (one of the top 5 for me-I use it all the time)
+K1KS (Krakli) analog-sounding synth. Cool blue and yellow GUI w/ wood ends for the retro aesthetic. Presets were supposedly inspired by Stranger things, and it has a good amount of nice, retro-sounding presets. Very musical synth. Still only 32-bit Windows VST though. Rating:  A-
+K200 (Krakli) 4 OP FM synth. Just a very good FM-sounding synth with an intuitive GUI, and a boatload of classic-sounding presets. Does the whole cold, crisp, FM-style 80s sounds very well.  A
+K700 (Krakli) Dual ambient texture synth. Wonderful for rich and atmospheric sounds with a lot of dimensions. Unusual dual-engine GUI helps create multi-layered noisescapes, and its preset list is a resume of its ability to make beautiful and complex patterns that hang in the air. Goes great with time-based effects, although it has its own very adequate built in effects as well. One of the more unique ones. A
+Kairatune (Futucraft) For crisp and tight electronic sounds. Bet you were sick of hearing "retro" "vintage" and "old-school" huh? Well finally, we have a MODERN sounding synth on the list. A wealth of crisp, musical, and contemporary sounds. Add in a really sweet futuristic GUI with neon blinky lights, boatload of great presets, and multi-platform availability (available in 32-bit and 64-bit Windows VST, as well as Mac OSX VST and AU), I think we got ourselves an A++ Rating: A++
+Kamiooka (g200g) polyphonic, full modular synth with patch cables. If you never had the money for real modular synths or wanted to understand how they work, this plugin is great. You can add modules and experiment with plugging in the virtual cables in different configurations. Comes with a ton of classic-sounding presets, has a cool intuitive GUI which will indicate which inputs and outputs are compatible etc. Very neat plugin. Windows 32 and 64 bit VST. Rating: A
+Kern (Full Bucket Music) polyphonic synth. Fairly underwhelming GUI, but extremely good performance, and bulletproof sounds. Coded for low CPU usage and high performance, apparently. Comes with a good amount of presets. Just extremely solid synth; doesn't stick out, but I find myself using it very frequently. Available on Windows 32 and 64-bit VST, and Mac OSX VST and AU. Rating:  A
+Kettle Drum (Samsara Cycle Audio) timpani. Does what it says on the tin. Pani. Surpising amount of tweakability, as its a synth and not sampled. Several different presets as well. Put some big reverb on it and most people would never know the difference. Way better than it has any business being frankly. Rating:  A (would have been A+ if it had more than 32 bit VST)
+Keyzone (Bitsonic) sample based pianos/accordian. Good sounds, good internal FX, slick GUI w/ keyboard, good dozen presets, and a good amount of parameter control. Only available on 32-bit Windows VST though. Rating: . A-
+Komodo (Krakli) semi-modular synth. Somewhat daunting and also slightly dull, but you'll soon find within the tons of presets, this is one of the most interesting-sounding plugins you'll hear. Very abstract, usual sounds- not great for traditional, tonal music. But certainly awesome for getting weird. Within the elaborate GUI is near-infinite tweakbility- only drawback is being only Windows 32-bit. Rating:  A
+Kox (Pianovintage)Vox continental organ-inspired. 10 presets and a very cool GUI that has the orange chassis and inverted key color scheme. Very authentic-sounding, and a lot of fun. Rating: A
+KWave (Krakli) morphing additive synth. Distinctiveand intuitive Orange GUI with ability to manipulate 4 waveforms and morph between them with modulation or LFO. No presets, but editing sounds is super-simple and the distinct tones are very inspiring. Rating:  B
+
+LABS (Spitfire Audio) Virtual instrument APP that has soundbanks available for download indivdually. This is a beautiful, super-musical and really fun application. Download the libraries that you find most-appealing to you and use them to create ultra-unique music. Fantastic sounds that have me playing for hours. Available across all platforms. One of the best out there. Rating: A++! Get it @ https://labs.spitfireaudio.com/?sortBy=prod_products_labs_latest
+LaserBlade (HGFortune) hybrid synth. Very distinct, "laserlike" sounds. Metallic-looking GUI matches the sci-fi aesthetic. Pretty unique and furturistic, but still can be melodic. Rating: B+
+Lazarus (Samsara Cycle Audio) mono/poly analogue synth. Pretty standard but very solid. Good amount of analogue-y presets make it a solid plugin. Slick GUI w/ keyboard. Does exactly what it should. Rating:  B+
+Lazerwave (L-Day) triangle wave based waveshaping polyphonic synth. Very slick 80s GUI and very slick 80s sounds- good handful of presets to start you off. Very cool and sees regular use. Rating: A
+Lell22 (Samsara Cycle Audio) Vintage Soviet Synth clone. Not a whole lot of versatility, but I'm a sucker for old Eastern Block synths and it has that janky sound. Not tons of tweakbility, but it's got a cute little GUI and it's in Cyrillic and looks cool. Handful of presets, and although it's not a powerhouse, not every sound needs to be huge, I think it's a nice addition. Rating: A- 
+Leto (Contralogic Productions) Jen SX1000 emulation. Don't be fooled by the modest GUI and amount of presets- this is a formidable analog-sounding synth with a very solid retro vibe. I like having it in addition to the other couple of Jen emulations available. Rating: B
+Lokomotiv (Archetype Instruments) analog retro synth. Spartan GUI with straightforward layout and no built-in effects and a bunch of very solid presets makes this a go-to. Very defined, but classic. Availability on 32 and 64-bit Windows as well as Mac OSX VST and AU makes this one an A+ I think. Rating: A+
+Lord of the Springs (Taron) active spring systems synth. Metallic sounding, very unique sounds. Neat GUI w/ keyboard and a lot of adjustability including microtuning, modulation, tremolo, etc. can result in tons of super-original sounds. Comes with a good amount of presets as well. 32 and 64-bit Windows. Rating: A
+
+M8Rx (Krakli) Chiptune matrix synth. This one has a somewhat crude-looking GUI; dominated by a massive green and black grid, it allows you to manually select the sequence of the 11 different wave types of oscillators step-by-step- Why do I like this synth? Its very spartan layout helps one intuit that way that synths like this actually function- and the way different waveforms. It's easy to come up with very interesting patterns quickly, and on top, it sounds surprisingly rich and warm, for a chiptune synth courtesy of a nice filter. It has some nice built in echo and reverb as well. Krakli is pretty sweet. Rating: B+
+Maelstrom (EVM Synths) 2 osc analog synth. Hard to describe exactly what it is about this thing, but it sounds great. A simple interface that resembles a rackmount piece of hardware makes adjustments a cinch, and the sounds always end up super usable. Small but quality batch of presets to get things rolling. Rating: A
+Magic Drum Lite (Quiet Music) Steel tongue drum. Neat GUI allows you to ply the nodes of a steel tongue drum like you would in real life, and has beautiful sampled sounds of a real one. 5 different scales available. Makes for a haunting sound. Pretty nice GUI too. Available on Mac and Win. Rating: A+  (available at https://quietmusic.eu/magicdrum-lite
+Mainliner (arcDev Noise Industries) Apparently designed for grimy DnB bass, but its very gritty, warbly, wide sound does a variety of texture well. It does nice janky-sounding highs but the lows are where it really shines. You'll know what I mean within the first few presets. The presets are also numerous and all very usable- I find myself coming back to this one. In fact right now I have it looping in the background and don't want to move onto the next synth. Achilles heel is it is only 32 bit Windows VST. But it sounds so nasty I'm still giving it an Rating: A+
+MBX3 (Audio Desk) Mono bass synth, based on MAM MB33. Simple, monophonic. But has a wonderful "oinky" quality that Acid music loves. It has a definite throaty quality that makes every sound it makes pop. 10 presets to get you in the ballpark, and a streamlined rackmount hardware-looking GUI make this a streamlined but powerful bass synth. Rating: B+
+MC44 (Samsara Cycle Audio) 4 osc analog synth. MC44 isn't especially remarkable but it does that whole "archetypal analog synth" role very well. To me it has sort of a modular Moog vibe. Its GUI isn't ostentatious but neither are old modular synth panels. It has two separate panels for very comprehensive controls for all the parameters. Its sounds are extremely familiar, and it has 100 presets which in itself is pretty impressive. You can use anyone for a starting point if you want a to understand synthesis on a plugin synth that feels very old-school. Has a pretty nice internal delay to boot. Rating: B+
+Microtron (Dream Vortex Studio) Emulation of a Mellotron Novatron made from Studer-recorded samples w/ integrated keyboard. I am a sucker for Mellotron sounds of all kinds. Now, there are certainly more-accurate functioning and sounding Mellotron plugins out there. And with prettier GUIs. So what is cool about this one? Well, it doesn't have the lower limit on notes that most of the Mellotron simulations do, which allows you to play super deep, almost Red Army Choir-sounding pads and even beyond. Is it faithful to the way real ones function? No; but I think it's still a very cool and usable function. You can also blend between Choir, String and Flute which are its three settings. I keep it exactly for the reasons that it isn't an exact recreation and can do a few unique things. Rating:  B
+Mantra (Samsara Cycle Audio) 2 osc analog synth w/ keyboard GUI. This thing is another very oddly-solid synth. I don't use it all the time, but everytime I do I wonder why I don't bust it out more. It doesn't have any flaws per se- it has a neat little GUI that looks like an old monosynth; even with fake wood grain. It has a boatload of presets as well, and does the classic analog sound to a T. Only real drawback is availability; 32-bit Windows VST only. Rating: A-
+Maribaphonic (Alan ViSTa) Virtual marimba w/ integrated keyboard. Made from samples from a public domain library from Iowa Electronic Music Studios. Sounds exactly like a Marimba, because it is. Built-in control for Release, Dynamic, Volume and even has its own reverb (it's not bad, just a big hall sound-but as usual, I reccomend bringing your own for customisability). All Alan's VSTs have been rock solid in my experience. Does just what it should. I think the Availability on 32 and 64-bit Windows and OSX VST and AU is going to put this one at an  A+.  Rating: A+
+Mel-Lofi (Audiolatry) Sample-based Mellotron. I freaking love this thing. It looks cool, has a built-in keyboard, functions pretty much how Mellotrons do, with the same limitations, and it sounds absolutely excellent. I like to stack extra tape effects to get that King Crimson sound- and boy do I ever sit around playing "In the Court of" all the time like a dork, with a huge grin on my face. This is one of those synths I made this list for. 23 presets with 5 catefories, with excellent built-in effects. Cross-platform on Windows 64-bit VST, OSX VST and AU. Rating: A++!
+MeloTank (Quiet Music) Tank drum sample player. Great-sounding instrument with all the adjustable parameters you could want, as well as several presets for diffent feels. Lovely GUI ties it all together. Available for Mac and Windows. Rating: A ( Get it from https://quietmusic.eu/melotank
+Merlitzzer (bigcat Instruments) Wurlitzer e-piano. Simple lime-green GUI w/ keys, no presets, a few parameter controls and a classic sound and you have a rock solid, simple little plugin. Rating: B+
+Mormox Imitate (easytoolz) Emulation of Murmux Initiate- a newer Greek hardware mono synth. This this is really cool- it almost sounds more Moog-ish than a Moog at times, but also has some kind of quality that is all its own. Has a batch of great presets with some nods to Wendy Carlos and the golden era of sound synthesis and is a blast to play. It has a hyper-retro look to its GUI complete with tweed and wood-ends. Very basic but classic control layout- it screams "late 60s" even though its apparently based on a fairly new synth. Unfortunately, only 32-bit Windows VST. But still worth the time. Rating: A+
+Micro Modular (EFM) Cool Digital-display grey GUI, but some surprisingly lush and pleasing analog-sounds. This thing is kind of a sleeper in my arsenal- I find it sound really makes me want to stay with it for a while- it has an almost-bland looking aesthetic which I think makes the sounds even more-sweet. Very good batch of presets here. If it weren't for the limited 32-bit Windows Vst I would give this one an A+ but it just has to be an A. Rating: A
+Microwave Oven (Odosynths) 3 osc arp synth. This little thing has no business being as good as it is. Little clean metallic GUI, and a load of presets with cool rhythmic electronic music-style ARPs. I just find myself playing with it a lot, and I don't necessarily know why other than the sounds are really good. Plenty of plugins do more, but they just don't have that x-factor that makes you want to play it. Rating:  A-
+Micro Piano (Meat Beats) Classic Digital House piano. Great for those super clear, digital piano sounds from 90s music. Has its own reverb, but adding your own effects is always ideal. Pretty slick little GUI w/ keyboard, no presets- just one very distint sound with a lot of attitude. Rating: A-
+Mika Micro (tesselode) Subractive/FM synth. Another sleeper, this plugin has a very minimal GUI with only essentials, but its sounds have a crisp, clear sound that FM synths do so well. Something about this thing makes me want to have it around. Good batch of presets to get to know the character of the plugin, and 32 and 64-bit Windows VST availability. Rating: A-
+Mini Dizi (Kong Audio) Chinese flute emulation. 11 different articulations and a simple GUI with tone controls. Sounds great with reverb. B+
+Mini Erhu (Kong Audio) Chinese Erhu 2-string bowed instrument. Sounds pretty good, has about 5 different articulations. Sounds pretty convincing. Simple GUI with control over the sound. Rating: A-
+MiniSE (EFM) Minimoog emulation. GUI looks like a MiniMoog control panel (sans keyboard); sounds like one, has presets like one. Nothing groundbreaking but a solid no-frills classic sound. Rating: B
+MiniSID (de la Mancha) Simple SID chiptune synth with stripped down microGUI. Bare minimum GUI helps you get those retro game sounds, and a dozen or so presets to get you cooking. I'm a sucker for chiptune plugins- I can never have too many for some reason. Good if you want bare bones and something that won't hog real estate on your screen. Rating: B+
+Minisynth Series (Acrobatics) A package of 3 tiny synths with keyboard GUIs- FRET, modeled after phase modulation synths for 80s bell-like sounds; GRIT, modeled after Pulses and Organs for dirtier sounds with gritty aliasing; and PEAK, which is more classic analog oriented. 3 colorful little triplets, with a good few dozen presets a piece. Nothing mind blowing, but they have cute little GUIs and the sounds are impressively big and musical- don't judge a book (or 3) tiny books by their tiny covers. Don't tell their siblings I play favorites, but I like GRIT the best I think ;). Rating:  B+
+Micromoon (Elektrostudio) Micromoog emulation. GUI w/ built-in keyboard looks like a blue version of the hardware it is emulating- that thick Moog filter sound is apparent even in an emulation of one of their more "budget" models from back in the day. I really like this one. Has a ton of good presets too. Rating: A
+MiniMogue VA (Glen Stegner) Minimoog emulation w/ expanded features. Sounds like a MM, but the GUI has expanded parameters. Integrated 4-octave keyboard, 5-note polyphony, delay, and a boatload categorized presets make it a keeper. I'm a sucker for Moogs, and I hoard any of the good ones. Rating: A
+Mnemonic (EVM Synths) Experimental hybrid synth w/ additive oscillator. Unique-looking GUI resembles a MicroKorg or something (sans keys) but the real star is the sound, which have very unusual and distinct timbres. Great for cutting through a mix and getting peoples' attention. EVM never skimps on presets either, so get a good idea of what this synth can do- which is a whole lot. Rating: A-
+Model Pro (Elektrostudio) Emulation of Moog prodigy mono synth. GUI looks just like one, complete with functional keys. It also sounds pretty legit, and has a ton of presets. One of the better Moog plugins. Rating:  A
+ModulAir (Full Bucket Music) modular polysynth. High performance, low CPU-consumption. Huge GUI with endless tweakability, huge modular sound, huge bank of presets. FBM can do no wrong. 32, 64-bit Windows VST and OSX VST and AU. Rating: 
+Moebius (EVM Synths) 2 osc arp synth. Capable of glittery pads, to silky strings, to crunchy, jagged textures and everything in between. Its detailed and intuitive interface can help you sculpt it into a ton of unique textures. Rating: A-
+Mono/Fury (Full Bucket Music) Korg Mon/Poly emulation. Again FB captures the essence both sonically and visually with yet another killer vintage emulation. As always, a ton of presets come stock. Mac and Windows. Rating: A+
+Moon Sono Sx (Elektrostudio) Moog Sonic Six emulation. ES does it again with a killer Moog emulation- GUI with keyboard, bunch of great presets and authentic sound score again. Rating: A
+Morphiza (Krakli) Transistor organ. Great for those 60s/70s organ sounds like "Telstar" (even has a Telstar preset). Small simple metallic GUI and a handful of vintage presets make it a solid retro plugin. Throw on some tape emulation and time-travel. Rating:  A-
+Morphiza Mk 2 (Krakli) Transistor organ. Different GUI with drawbars and switches for a different vibe. Still retro as heck. B
+Movementron (Flandersch Tech) Sequenced synth. Full analog sound and tons of versatility with its own time-based effects for extra dimension. All this package in a very attractive GUI w/ keyboard and a ton of parameter control. A good batch of stock sounds let you get to creating quickly. A very complete and good-sounding tool. Available only on 64-bit Windows. Rating: A
+MrTramp2 (GSi) Wurlitzer electric piano model 200 sim. GUI looks like a control panel on an old e-piano, sounds like it'd be right at home on a Supertramp track. No presets, but who needs em with such a classic tone? Tape saturation is your friend with this guy. Rating: B-
+M-Box (Samsara Cycle Audio) virtual music box. Because it's synthesized and not sampled, there are no pitch limitations. There are also several tons of presets of different kinds of music box sounds so it's strangely versatile for such a simple sound. Cool cracked-and-yellowed paint antique-looking GUI tops it off. Rating: A
+M-Phasewave (TubeOhm) Phase Distortion monosynth. 64 different templates, and a very large, flexible GUI w/ keyboard make this a super-versatil synth. The sound is extremely thick and unique- it has that interesting edge that phase distortion synths do best. Bunch of very musical presets make this a valuable tool. Rating: A
+MS 2008 (GTG) Classic analog synth. Very old-school-looking hardware-style yet-logical GUI belies old-school sounds. A bunch of presets make this one a great and versatile classic. Rating: B+
+Murali II (Samsara Cycle Audio) Virtual Ethnic wind instruments. 10 different instruments like Pan flutes, Ocarinas, Bamboo flutes- tons of parameters to adjust because it's synthesized and not sampled, as per most of Samsara's work. Throw on your favorite reverb or delay to get the most out of it. Very usuable. Rating:  B
+Music Box (DSK) Sampled music box. No presets, simple GUI with no settings, but does exactly what you think it would. Much more limited than the Samsara plugin, but it's real samples. Rating: B
+MX-2008 (GTG) Pads/FX. Can make pretty neat atmospheric and FX sound but also is very musical. Neat looking GUI and a bunch of good presets. This sees a lot of use in my DAW. Rating: A-
+Mysterion (Pianovintage) Virtual analog synth. Nice GUI looks like an old hardware keyboard. It sounds very full in a way I can't fully describe, but makes me want to keep using it. A good handful of presets make this a great addition to your toolbox. Rating: A-
+
+
+Nabla (Full Bucket Music) Korg Delta DL-50 string synth emulation from '79. Sounds awesome and authentic- GUI looks perfect and echos the old hardware's looks- comes with a ton of presets. Also for 32, 64-bit Windows VST, Mac OSX VST and AU. Rating: A+
+Nanotron (Dream Vortex Studio) Mellotron emulation. Really solid little plugin that works pretty much how the real ones do. The GUI has a keyboard, knobs to adjust attack, release, tone, and to cycle between and blend the 3 voices. Not the best Mellotron plugin but not the worst either. Worth having- I'm addicted to Mellotron sounds.  Rating: B+
+Nerve (NEKO) Double Oscillator synth. The big yellow keyboard GUI jumps out immediately, followed closely by the distinctly massive sound this thing happens to produce. A very usable integrated delay help make the pulsing ARPs this synth excels at really attain 3 dimensionality. Its dozen or so stock presets help to crystallize exactly what about this instrument is great. Rating:  A-
+Nettle (Fellusive) Scanned synthesis synth. Very unsual timbre do to the fairly new style of synthesis it employs. Makes it a beautiful synth to mess with because of its modern and distinct sound. The GUI is very pretty and a pleasure to use, but the sounds are really the show here. A handful of presets demonstrate the types of sounds it does well, but the sky is the limit. If you only could pick a limited number of synths off this list to try, this should be one for its uniqueness. Available on 64-bit Windows and Mac AU and VST. Rating:  A+
+NewModelOscillator (Whitebox) 3 modulator FM. This unassuming little plugin is an unlikely keeper- it makes somewhat nasty, almost lo-fi-ish sounds, but in a really great authentic way that lends itself well to a variety of applications that require less-than-pristine tones. A pretty nice built-in adjustable reverb helps to make it pop, but it's small handful of presets and ability to cut through the mix make this an underrated ally. Rating:  B+
+Ni (Saltline) 16-step sequencer synth. Saltline excels at making very odd-sounding synths, and this is no exception. A very unique sound complemented by a very unique GUI with a large grid to manipulate the step sequence of the oscillator waveforms- and the result is a very quirky arsenal of wild, rhythmically effervescent sounds. The dozen or so stock presets show what its capable of, and that's only the tip of the iceberg. One of the more interesting plugins. Rating: A-
+Noisemo (Xoxos) Noisy synth. After so many emulations and pretty sounds, it's nice to get a little obnoxious. This is your guy- wavecycles are produced by triggereing noise generators and making a pretty good racket out of it. Unique, trashy, and a nice change of pace. GUI is nothing to write home about, but the good amount of presets ought to put a mischeivous smile on your face. Rating: B
+Nostaljia (Gregjazz) very 90s sounding synth. Minimal GUI and decent handful of presets help capture that 90s synth sound. Nothing too outlandish but a solid addition to your toolbox. Rating:  B+ 
+NoteGraphica (g200kg) Drawable custom waveforms synth. This plugin has a very cool GUI that resembles a CRT screen with drawable waveforms for its two oscillators. The sounds it produces tend to be very "glitchy" and cool, and can be quirky but yet very usable and pleasant. This is actually one of the coolest ones in terms of functionality meeting aesthetics, in my opinion. The presets are a good respresentaton of its potential, but with completely customisable waveforms, the sky is the limit. Rating:  A
+NOVAKILL Ripsnorter (Novakill) There are a whole series of synths from NK, with bizarre names like BALLTEARER AND PISSCUTTER ETC. and frankly they're all pretty huge sounding. BALLTEARER and RIPSNORTER are probably my favorite. They all have a pretty slick interface, a ton of presets, and a pretty huge sound so you can't go wrong with any of them honestly. Rating: A
+NR 2010 (GTG) Analog polysynth. Just a super classic-sounding synth. Has a GUI that resembles old Roland modular gear, and sounds that would be right at home from that era. A bunch of great stock presets make this a beast. Rating: A-
+Nu Guzheng (Samplescience) Guzheng plucked zither sampler. Great virtual version of the chinese string instrument. The slick GUI has the parameter ajustment you could want, and a pretty good reverb built-in. No presets, because it's just one instrument, but it's all you need. Probably the best free plugin of this instrument out there. 64-bit Windows VST and OSX VST and AU make this a rare A+ Rating: 
+
+Oatmeal (Fuzzpilz) Analogue/Subtractive synth. Hugely adjusable GUI and good amount of presets make for a pretty versatile synth. Rating: A- (I believe it may no longer be available on Plugins4free so it should be able to be found at https://www.kvraudio.com/product/oatmeal-by-fuzzpilz  
+Ob-80 (EFM) Oberheim ob-8 emulation. Sounds like an OB, looks like an OB panel, and comes with a load of presets for that old-school goodness. Nothing groundbreaking, just a solid emulation as usual from EFM. Rating:  A-
+Oberon-8 (Land of Cockaigne) Classic-style analog polysynth. This thing sounds and looks the part, with a great batch of vintage-sounding presets and a slick retro Gui. Super reliable, and a lot of fun to toy around with. Rating:  A-
+OB-Xd (2DaT) Oberheim OB-x/xa/8 synth emulation. Great emulation of several of the OB series. Huge sound, big cool GUI that looks like the hardware control panels make this one a classic. Tons of great presets. Availability on 32 and 64-bit Windows VST and OSX VST and AU. Rating: A++ (get it at https://bedroomproducersblog.com/2020/08/03/ob-xd-2/
+Obzylon (Shuttleplug) freak organ/toy piano. Weird janky lofi sound that is very unique. A super cool GUI that looks like old brass and a green CRT oscilloscope lend a cold-war type aesthetic. No presets, but the main sound has so much personality, I don't really even mind. I keep it as a secret melodic weapon. Rating: B+
+OC-10 (Marvin Pavilion) waveform memory synth. DX7-esque GUI with manipulable waveform and sliders to control basic parameters make this a very stripped-down but fun synth. Lack of presets force you to get familiar with the very basic building blocks of synthesis. Barebones but fun. Rating: B-
+Ocarina (Samsara Cycle Audio) Synethesized Ocarina. Approximates the sound of Ocarinas pretty fairly. A bunch of presets for various textures and a ton of parameters are able to be manipulated as it's a synth and not sample-based. Throw some of your favorite verb on and it'll sound just peachy. Rating: B
+Occam and Occam SE (EVM)
+Ocet (Elektrostudio) EKO Computerythm analog drum synth emulation. Elektrostudio excels in making sonically and visually-faitful emulations of classic gear, and this is no exception. 6 sound modules, 16-step sequencer and internal mixer. Great randomize function to kick off all kinds of neat beat sequences with a cool vintage sound. Rating:  B+
+ocII (EFM) Octave CAT emulator. 
+ODIN 1 and 2 (TheWaveWarden) 12-voice polyphonic semi-modular synths. These things sound great and can do pretty much anything. I use 2 personally, and I tend to like its Boards of Canada style bass sounds. Tons of categorized presets on top of a great GUI, 32 and 64-bit Windows VST availability. Rating: A+
+Omnicron (EVM Synths) Pad synth. Capable of every type of silky, vocal, glittery, lush pad you could want. Plus a whole lot more. Cool hardware-esque UI and as is standard for EVM, a boatload of stock presets to get to know the synth's character. Rating:  A-
+Oranze (DSK) Wavetable synth. Very clear, twinkly and beautiful sounds. The plugin has a very slick GUI, and a bunch of categorized presets- as well as its own delay to give some spatial sparkle and a gated step sequencer to introduce some rhythmic content to your sounds. Rating:  A
+Orpheus II (B Serrano) Polyphonic Ensemble synth. Excels at voices and string sounds in particular. Great GUI with a keyboard included and a bunch of presets as usual for Serrano plugins. Rating: B+
+OR2v (Elektrostudio) Oberheim Two Voice emulation. Like most Elektrostudio plugins, this GUI resembles the real hardware, along w/ keyboard. Authentic analog sound and a boatload of faithful presets make this another his for ES. Rating: A-
+Osiris-6 (Neko) dual analog synth. Big lush sounds in a big blue keyboard GUI. The presets are very rich, just like it's sibling, Nerve. Nothing incredibly unusual, but a solid and musical plugin. Rating: B+
+OSS Enterprise (Ocean Swift Synthesis) Hybrid synth w/ various types of synthesis. Four oscillators, dual filters, a beautiful and unique GUI w/ keyboard. A bunch of categorized presets show just a fraction of what this little powerhouse is capable of. Available in 32 and 64-bit Windows VST. Rating: A
+Oxe FM Synth (Oxe Software) 8 OP FM synth. Not the most ostentatious-looking plugin, but it has a ton of flexibility. Does 80s FM synth sounds with ease and has a ton of great presets. External support for different skins is apparently also available. But the sounds in this thing absolutely top notch. But best of all, it's available across all Operating systems: 32 and 64 bit Windows VST, Mac OSX VST and even Linux! Rating: A+
+
+PadPal 1 and 3 (Rock Hardbuns) Zip contains 2 padsynths. Padpal1 is included but PadPal3 is really the better of the 2. For some reason this thing just has an incredibly crystalline and present sound that I can't put my finger on. There are plenty of more sexy, versatile plugins, but they lack the certain elusive quality this one has. It's like the best of the 80s digital FM sounds. Small handful of presets, but a massive sound. Rating:  A
+PD9 (GTG) Phade Distortion synth. Excels at bass and leads sounds with the croaky, crinkly sounds Phase Distortion synths are good at, packaged in an attractive GUI with as good amount of presets, as per GTG's usual MO. Rating:  B+
+PECS (Full Bucket Music) Korg PE-2000 Poly-Ensemble S emulation. As usual FB kills it with a huge-sounding, great-looking vintage hardware emulation with a ton of presets, and cross-platform availability. 32/64 bit Win. VST, Mac VST and Au. Rating:  A+
+Pendulate (Newfangled Audio) Chatoic synth. Extremely unique sounds and aesthetics. Tons of categorized presets and ease-of-use make this a joy. Best of all, full Mac and Windows availability. Rating: A+ Can be found at https://www.eventideaudio.com/plug-ins/pendulate/
+PhasePno (Rock Hardbuns) DX FM EPiano synth. Something about the Rock Hardbuns plugins have this insane crystalline clarity to them that make me want to use them- they aren't the most complex interfaces or have the hugest amount of presets, but they encapsulate that beautiful, clear sound we love about 80s FM synthesis. The pretty blue GUI doesn't hurt either. Wonderful sound, even with the small handful or stock presets. Rating: A
+PhazOsc (Fretted Synth) Phase Distortion synth. Another very original-sounding plugin. Phase distortion synthesis lends and edge to these sounds that makes it stand out amongst its peers. A very slick GUI and generous constellation of stock presets are a formidible combo. I find this one pairs up nicely with a modulated delay. Rating: A-
+Phutura (Phuturetone) Inspired by Alpha Juno. Great for enormous Hoover sounds in various types of EDM, Techno, DnB etc. Within a couple clicks of the presets, you will love this thing as much as I do. A massive amount of presets helps you to make a panoply of killer old school dance music and beyond. Throw in one of the most beautiful GUIs out there that looks like the old gear and it's an instant favorite. Despite being only 32-bit Windows VST, it sounds so huge I'm still giving it a high rating. Rating: A++
+Piano SA (Orchestools) Just a simple digital piano with keyboard GUI and its own reverb. Runs smooth, super minimal. 64 bit Widows VST. Rating: A-
+Piper 1 and 2 (Rock Hardbuns) 4 OP FM synth. RH strikes again with its tradition of having synths with unassuming optics but huge musical sounds that jump out at you. These have the distinctive clarity typical of FM synths, and specialize in wind instrument-like sounds, but with a synthetic edge. Reverb and delay are always your friend with these kind of sounds- sure to cut through a mix. Rating: A-
+Pluton (B Serrano) Virtual analog synth. 12 voice polyphony, a slick GUI, slew of presets and a super versatile sound make this another great tool. Nothing incredibly unique, but just very solid. I find myself spending a lot of time playing it when I use it. Rating: B+
+PM4 (Land of Cockaigne) Panzertank four op PM synth. 4 sinus operators with indidual ADSRF envolopes. But the gnarly sounds are what make this thing special. Crunchy and edgy in just the right way. Nice slick GUI to make the most out of the unique sounds, and a good assembly of presets for showing the plugin's strengths. Very good plugin. Rating: B+
+Polly (KBplugs) Moog Polymoog emulation. A lot of the KBplugs plugins are emulations of great old hardware, but are just a control panel and usually don't have presets- for that reason I have not included them on this list as I believe presets are sort of the gateway to getting to know a plugin. This is an exception however. The GUI is very much a pretty faitful representation of the controls of a Polymoog (sans keys) but it comes with a good array of presets to really show you what it can do. Get your Gary Numan on with this badboy- you can even take it in Cars! Rating: A+
+Poly 2106 (Synthescience) Vintage style synth. Extreme classic vibes in both sound and appearance from this one. Great GUI with in-depth parameter control and vintage aesthetic, and a boatload of presets meant to invoke some of the most popular synth sounds of all time. Only its limited 32-bit Windows VST availability is a weakness. I'm still giving it an A+. Rating: +
+PolyGas (Stone Voices) Granular synth. This is a unique plugin because the method of synthesis is unlike many- resulting in a very identifiable sound. Nice change of pace amongst all the "classic" type plugins around. Fairly original, with a batch of really beautiful preset examples of its strengths. A very slick GUI with exceptional built-in effects give it sparkle and dimension. For 32 and 64-bit Windows Vst. Rating: A+
+Polyvoks (SyncerSoft) Polivoks Soviet synth emulation. Does a pretty fair imitation of those beautiful, slightly janky Eastern Block sounds all old-school synth-heads love. A bunch of preset examples of what it can do and a very effective GUI with a Cyrillic logo really help hammer home the vibe. Not reinventing the wheel, but sprinkles a little Cold War goodness in your tracks. Rating: A-
+Prodigious (Synthescience) Classic-style analog synth. Another home run for Synthescience- beautiful, authentic analog sounds; an attractive and effective GUI; and a boatload of presets to have a ball with.  Rating: A (would have been A+ if it had wider availability)
+Prophanity (Roberson Audio) Prophet 5 emulation. Looks like a Prophet, sounds like a Prophet. Plenty of presets and a GUI that looks like a SCI control panel results in a pretty solid clone. Rating: A- 
+Protoplasm series (HGFortune) Pad and texture/ambient synths. Some of my absolute favorite plugins are from HGF. These things are some of the most truly-unusual sounding-synths. They're fantastic for soundtrack work, atmosphere, ambient textures, spooky soundscapes- anything like that. They can also be quite ethereal and beautiful. Bury them under massive amounts of reverb and delay and make beautiful and terrifying etheral things happen- a joy to play. Rating: A+
+Proto PSG (g200kg) PSG-like soundchip synth. Cool, somewhat lo-fi chiptunes sounds, with a lot of cool presets. The neat digital sounds are complimented by a cool GUI that looks like a circuit board- fitting for the glitchy, chiptune-y sounds it makes. Very usable as well. A real darkhorse, and another addition to my chiptune synth addiction. Rating: A
+PTS (Quilcom) Pulsar Train Synth. Based on a type of synthesis invented in 1979, it have a very unique voice. The many presets give you a great idea of the character of this type of synthesis. Very versatile, with every sound having a very unique edge to it. Rating: B
+
+
+Quack (novaflash) Mod martix synth. Extremely flexible sounds with a very nice, crisp... well, quacky- sound. The GUI is neat and changes color with different presets, of which there are 100. A very distinct and versatile synth, and sounds out the wazoo. If it were available for more than 32-bit Windows VST it'd be rated even higher. Rating: A
+Quantum64 (Land of Cockaigne) Harsh and aliased digital synth. Based somewhat on a SID chip from a Commodore, but way more than a simple copy. It has a wild little arpeggiator and a degrader/quantizer to make it sound really filthy and weird. The GUI itself looks like an old piece of hardware left to decay and get all grimy and it's an appropriate look. I like this little thing a lot- a good dozen or so presets kick the weirdness off. Think telephone ringtones on crack. Rating: A-
+Quiet Piano (Quiet Music) Beautiful sampled piano. Handful of different presets but all of them a lovely, spacey sampled piano. GUI is beautiful and has a keyboard, ADSR, Gain and Cutoff control. You can never have too much reverb and delay on sounds like this. Available for Mac and Windows. Rating: A+
+ 
+Ragnarok (Full Bucket Music) Emulation of a custom built, one-of-a-king hardware synth from 1980. Very unique sound and polyphonic up to 64 voices. Capable of all kinds of classic sounds and many of the ample presets are named in testament to that. Highly intuitive but still very attractive interface make this a must-have, and can since it's available on Windows and Mac. Rating: A+ 
+Redtron (Artifake Labs) Mellotron emulation. Meticulously reproduced sounds of the famous old instrument. Tons of tweakability, and little nuances try to capture the true vibe of the original like the little clicks and noises. Probably the second-best Mellotron plugin on the list, but still absolutely worth having as it does a few things better than the others but they all have strengths. Can never have too many Mellotron sounds. Put on even more tape emulations to get it super degraded and warbly- that's the best. A+
+Reducktion (Dead Duck Software) 16-step arp/seq polysynth. This plugin does familiar sounds well, as evidenced by some of the presets. But the GUI allows for infinitely more possibilities than that, and the clean design makes it a joy. Starts with 15 or so great presets. Availble on 32 and 64-bit windows. Rating: A
+Retro Boy (Sound-Base Audio) Chiptune Synth. Capable of making all kinds of really pleasant video game-style sounds. Pretty streamlined with a very simple and functional GUI. No presets, but with sounds this basic, not necessary. A lot of fun, and an unlikely favorite of mine. Rating: A
+Rez (Ugo Audio) Monosynth. Capable of very thick and rhythmic sounds, it's surprisingly versatile for a monosynth. Has a programmable arpegiattor, among other tweakable parameters. Has a nice built-in overdrive for mean sounds, and a pretty passable delay as well. The GUI is beautiful and comes in black w/ yellow text, or yellow w/ black text- I prefer the latter. 20 or so presets to kick things off. Rating: A-
+RF-AB303 (Ronan Fed) Mono bass synth. Meant mainly for acid style bass, but it's rich enough to do anything well.  A good dozen presets get things rolling, and a clean and very nice-looking interface make you want to keep using it. Available for 64-bit Windows only. Rating: A-
+Rhythmus (Elektrostudio) Retro drum machine based after an old Roland I believe. Like all Elektrostudio stuff, it looks the part with a beautiful retro GUI and excellent sounds- multiple patches, and patterns that can be selected in any combination you like, started and stopped just like the real old machines. You'll recognize these sounds right away and have a ball with it. Rating:  A
+Rhythm (SyncerSoft) Clone of Ritm-2 Soviet Synth from '84. Cool vintage analog sounds with a load of presets, comprehensive (if slightly underwhelming) GUI w/ keyboard. The sounds are awesome however, and seem to have that vintage quality old synths from the USSR had in spades. A lot of fun. Rating:  B+
+Richman (Krakli) Hybrid synth specializing in plucked sounds. Everything this synth does has a unique quality to it- very good to add character to a part. A mountain of neat presets illustrates its strengths, which are metallic and percussive transients. B+
+RITM III (Samsara Cycle Audio) Ritm-2 Soviet synth emulator. Wonderful clone of the classic from the Soviet Union. Cool GUI looks like the real unit complete with keyboard. The sounds are legit-sounding, and it has a good batch of presets to prove it. I really like this one a lot; I'm a sucker for Soviet synthesizers. Rating: A-
+RJU-60 (EFM) Roland Juno-60 Emulator. EFM has a penchant for having interfaces that don't do the sound of the plugin justive- it has all the functionality you need though. And the sounds don't disappoint whatsoever. A ton of presets as usual with EFM make it one of the more underrated Juno emulations. I love to have all the good Juno sounds I can. Rating: B+
+Rjxp (EFM) Roland JX8p emulation. GUI resembles the control panel of the real thing, and the sounds do a pretty solid imitation. Small handful of presets that are great building blocks. B-
+RMI-EP (AM Music Technology) Electra Piano emulation. Vintage-sounding and looking plugin of an E-Piano made from 1967 to 1980. The interface looks like the console of the piano itself, sans keys- switches select the different oscillators. Handful of presets make it just versatile enough, and a clean retro sound make it a great solid instrument. Rating: B+
+RMI Harmonic (Tom Sauz) Emulation of rare synth from 1974. Unique in that you build the sound by mixing in harmonic overtones with sliders. The retro GUI is metallic with multicolor buttons, echoing the aesthetic of the real hardware unit. Pretty unique functionality and a handful of recognizable sounds make for a cool take on a familiar instrument family- keys and organs. Rating:  B+
+RMPx (Krakli) Physical modelling/ensemble synth. Very intricate sounds that straddle the line between real and synthetic, conjured with an intricate-yet-intuitive GUI w/ keyboard. The chameleon-like synth can make a myriad sounds. The mountain of presets are all over the spectrum. Dual arpeggiator gates and its own built-in effects section help make it a multi-dimensional dynamo. Rating: A
+RMS1 (Samsara Cycle Audio) Mono/Poly analog synth. Very flexible, but seems to have an inherently "vocal" quality to its timbre that makes it very interesting. It can sound like a strange hybrid of a human voice and an instrument at the same time, and that's a very cool feature to add glue to arrangements. GUI that resembles a beefy rackmount hardware synth help lend a pseudo-tactile experience to the creative process. It has a litany of presets demonstrating its strengths. Rating: A-
+Royotoms (Alan ViSTa) Rototom sampler. Obviously influenced by the intro to "Time" by Pink Floyd the toms are tuned to play it, the GUI is a nod to the album cover of DSOTM. It features 8 rototoms, with the ability to control punch, dynamics, reverb, panning and volume independently. The dry mono samples are also available for free download. Really fun instrument, and as usual it's available on Mac and Windows- earning Alan yet another A+. Rating: A+
+Rouge (velvetskyemusic) 3 osc wavetable additive synth. Very interesting sounds- lots of presets show off this synth's chops, and a unique and very cool GUI make it fun to tinker with. Good for a little more unorthodox timbres but still familiar-sounding. Rating: B+
+
+S3k (Krakli) Mono synth. Somewhat unusual synth. Can sound retro and modern, depending on the patch. A ton of great presets come with it. The GUI is also somewhat interesting. Underrated synth. Rating: B+
+Sama Harmonium (Samsara Cycle Audio) Virtual Harmonium. Synthesized, so a lot of control over the sounds. Cool GUI with keys and tone controls. Many different settings as well. Rating: B+
+San (Saltline) Hybrid synth. Sounds "weird". Good for unusual experimentation. The very interesting GUI helps a lot. Rating: B
+SAW (Samsara Cycle Audio) Saw wave synth. Exactly what it sounds like- if you like Saw waves, this one is for you. Nice, logical GUI with a vintage look to match the vintage sound- great assortment of preset sounds. Rating: B
+Saxophia (Fanan Team) Emulation of 4 different sax types. Actually a fairly convincing emulation of an instrument notoriously hard to imitate convincingly. There's the old CS80 synth version, but that was a several-hundred-thousand dollar synth in its day and it could only do a pretty synthetic-sounding version. This thing sounds pretty good if you can get the articulation right. Drowning it in reverb also never hurts (seeing a pattern? Reverb hides all the flaws of less-than-ideal imitations of instruments I believe). GUI with a fair amount of tweakbility and options and built-in keys, along with a pretty decent sound. Available for 32 and 64 bit Win VST. Rating: B+
+Scylla (de la Mancha) Hybrid synth using samples and waveforms. It produces some of the most unusual sounds I've heard of any softsynth, and is really fun to mess with. The unusual method of synthesis and the fun and cool-looking GUI make it really enjoyable. But the sounds are what really sells it- thing has personality for days and can make some very unique noises. Rating:  A
+Seeq One (Odosynths) 5 sequencer synth. Very unsual rhythmic sounds because of the compound use of sequences. Fun for making all kinds of warped blipping and blooping and just general chaos. Pretty neat GUI makes the process pretty easy, and a lot of presets to work off of is very inspiring. Rating: A-
+Serenity (HG Fortune) String/choir/pads etc. Manages to sound at once retro and fresh. HGF synths are wonderfully multi-faceted with lots of extra modulation to make layered, lush, atmospheric sounds. With these sounds, too much delay and reverb is never enough so even though the on-board ones are good, putting on your favorites on top is even better. Run it through tape saturation to get it to sound very warped and super-interesting. Responds to lo-fi degradation type effects well. Though it's only available on 32-bit Windows, I'm giving it an A+. Rating: A+
+SequencAir (Full Bucket Music) Step seq synth. Everything FBM does is gold, and this is no exception. Typical- great GUI, great sounds, great presets, on Mac and Windows. Rating: A+
+Shuniji (HGFortune) Wavetable synth w/ drawable contour steps. This one sounds super-unusual. Whenever I need a non-stereotypical sound, I always come to this. Maybe not always the prettiest, but can definitely get very weird and cool. As per HGF's work, there are a load of great presets to work with. A pretty nifty and original interface makes it even better. Rating:  A+
+Sitar (Samsara Cycle Audio) Synthesized Sitar. As usual, because it's not sampled, tons of tweakable parameters. Several different Sitar sounds. Not the most convincing or accurate, but fun to play with. And a very functional GUI. Rating: B
+SQ8L (Siegfried Kullmann) Emulation of Ensoniq SQ80. I love this thing- it has that mojo and the awesome, raspy sound especially in the low registers of those 80s synths. This one here is one of the reasons I made this list, to tell people about this. The GUI aesthetically does a great job of looking like the real thing, and its ample bank of presets will have you playing for hours with a smile. Total classic. Rating: A++
+Sonigen Modular (Sonigen) Modular synth. Fully modular, you can add your own constellation of modules and even play with virtual cables. Very neat tool for learning modular synthesis if you can't afford real ones. Also a ton of categorized presets. Designed to run efficiently as well. Rating: A+
+Stigma (Full Bucket Music) Korg Sigma emulation. FBM strikes again. No new story here. It looks good, it sounds good, it is good. A ton of presets to prove it, and availability on Win and OSX to seal the deal. Rating: A+
+StingerMax (Krakli) 2 osc synth. Is a pretty stripped down synth, but still very cool. Classic sounds, and has a sequencer which the original Stinger lacked. A cool old-school GUI for cool old-school sounds, and a whole big pile of presets make it a blast. Rating:  A
+Stringer (FalkeLab) String synth. It emulates several classic string machines- so it makes an extremely classic sound- it's kind of a combo of the great classic string synths. The GUI looks cool too- like a piece of real hardware complete with wood ends and heat vents. A sweet handful of presets and you're off to the races. Rating: A-
+Stylophone (superwave) Stylophone pocket synth emulation. Looks and sounds like the real thing- down to the note limitations. Pretty cool- two different settings- monophonic. Lofi but awesome- known for being on Space Oddity by Bowie. Rating:  A-
+Styrofoam (de la Mancha) Stylophone emulation. A little different than the previous one. Tracks a little better, has a non-photoreal GUI, and 4 different settings to simulate more deteriorated versions. Maybe a little less accurate to the sound, but convincing nonetheless and the degraded versions are really cool. Add even more degradation effect with tape simulation and modulated delay and it can get real fun. Rating: A-
+STS017 (HGFortune) Sound Transition Synth. Outer space sounds, outer space GUI. That's all that needs to be said. Sounds like you're on a spaceship, the GUI looks like a spaceship. As usual, a ton of killer atmospheric presets make another classic. Rating: B+
+Supertron (Solcito Musica) Arp and Seq synth. Great at generating sparkly, effervescent sequences and arps that are full of life and just sparkly. Step modulation and a variety of effects make for a sound that has many layers and tons of character. A nag screen goes away with the click of a button, revealing a surprisingly complex GUI, and it contains a good amount of very musical presets that are great for dance music, soundtracks, or anything else that requires a lot of movement in the sound. Win VST 32 and 64-bit. Rating: A-
+Superwave p8 (superwave) 8 voice analog synth. One of the hugest sounding synths on this list. It can hang with the best CS80 sounds, Roland Hoovers, lush JMJ pads and everything in between and beyond. The GUI kind of invokes Roland J series control panels, and using it is very simple. Comes with a load of categorized presets, with its take on specific sounds we all know and love from music and film. I can't say enough good things about this one- one of the very best. Available on 32 and 64-bit Windows. Rating: A+
+SurgeXT (Surge Synth Team) Subtractive Hybrid Synth. One of the most complex and "serious" free softsynths out there. Immense amounts of tweakbility, almost unparalleled. I'm just barely getting familiar with it but its level of power is obvious- a great synthesis tool. Comes with a panoply of categorized presets. It can pretty much do anything. Also available on Windows, Mac and Linux. Rating: A++
+Swamp series (HG Fortune) Swamp, SwampXT, Ultraswamp Free. Ultraswamp Free is one of my favorite softsynths ever. I don't knows exactly how its synthesis works and frankly, I don't care- but what I care about is how damn weird and badass these things sound. UltraSwamp will take whatever you play and create this strange haze around it, and make it feel like little particles are just floating like a halo around the sound. Super low bass drones are great- it can make textures happen that remind me of Friday the 13th. Just try out the presets on SwampUltra and you'll see. Don't try to get too melodic and tonal with it- keep it abstract and sparse. It is second-to-none at generating sweet atmospheres. HG Fortune synths love all the time-based effects they can get. Run ringmodulatons, tape saturation and modulated delays on these boys for days and it will always sound cool. Try them and you won't be disappointed. The GUIs look a bit dated but are also very intricate and unique- HGF makes some of he most unique stuff I've come across. Rating: A+
+Sweetcase (NoiseAsh Audio Tools) E-piano emulation. Very good sounding, with a handful of presets for different feels. A clean and very pretty UI make for a wonderful elecric piano instrument. Available on Windows And Mac. No fuss, no muss. Rating:  A+
+Swierk (Saltline) Subtractive analog-style synth. Nothing immensely unsual, just a really solid synth with a very clean, intuitive interface and a classic sound but can still be at home in contemporary contexts because of its fairly hi-fidelity. Throw in a ton of awesome categorized presets, and you can pretty much get any sound you like out of it that subtractive synthesis can conjure up. Saltline does great work. Rating: A
+Symptohm PE (Ohm force) Preset synth. 1200+ presets, and a very unique synthesis engine can create some very unorthodox sounds. The GUI is pretty unique as well, and includes notes about each patch and the author. Very neat little synth and powerful- lots of capability in a small package. Available in all Windows and Mac formats as well. Rating:  A++
+Syncla-X (Digital Systemic Emulations) Emulation of the classic FM synth Synclavier II. Pretty fair emulation of the old machine, with a GUI that aesthically echos the hardware. Has been a little unstable here and there, so watch selecting empty preset banks and such. But a pretty authentic sound- pretty neat that a free plugin can approximate something that used to cost more than several houses. Rating: B
+Syntar (Syntar) Virtual sitar. Actually sounds pretty real if you get the articulation right. Slightly goofy GUI but controls over the tone are adequate. Can actually make some very convincing music with this thing.  A-
+Synthetic (Minimal System) Single osc additive synth w/ drawable waveforms. Nothing super crazy, the GUI is nothing to write home about it just has what it needs but I'm a sucker for a drawable waveform. It also has a surpsingly good sound, if a little thin. But has a surprisngly good on-board delay. Rating: B+
+Synthetic Vortices (Sample Science) Pretty cool cosmic atmospheric plugin. Great for crazy cosmic weirdness. Great and colorfuil GUI. If that isn't enough, there's 90 different modes to explore. Freak out, space is the place. Samples used for the plugin also availables. Available for Windows and OSX. Rating: A+ (Get it at https://www.samplescience.info/2020/12/synthetic-vortices-plugin-edition.html
+Synthestra (Marvil Pavilion) Vinago mono synth. Does great retro and lofi sounds and has a cool GUI. Lots of presets, and fun to use. Nothing super original, but solid. Rating: B
+Syntler (Syntler) groove and arp synth. GUI featurs a Joystick that causes crazy explosions of arpegiatton and digital delay to come swarming out around the sounds. Actually very interesting and easy to get cool, spontaneous sounds with tons of atmosphere. Unusual interface, 32 presets an a whole lot of fun. Rating: A
+
+T30-GP (12bitz) Sampled grand piano. Based on a digital version of a Steinway Grand, it has a great ability to cut through the mix but not sound "fake". Super simple GUI w/ keys, no presets, just controls for dynamic, release, cutoff, volume and reverb but external verb is best. Very good sound. Rating: A
+T-Rex ArgenSynth (Max Project) Arp synth. Interesting rhythmic sounds can come out of this thing. It has a fairly unique sound. The GUI is also unusual, and simple to use. Rating: B
+TAL-Bassline (Togu Audio Line) SH101 mono bass synth emulation. Fantastic sound, GUI w/ keyboard, lot of presets, and availability on Windows and Mac. Rating: A+
+Tal-Elek7ro (Togu Audio Line) Virtual analog synth. Just a great, classic-sounding synth. Cool GUI w/ keyboard and a litany of presets. No real weaknesses. Available on Windows and Mac. Rating: A
+TAL-Noisemaker (Togu Audio Line) 3 osc analog synth. Improved version of Tal-Elek7ro, but way bigger and badder. Huge amount of parameters in a big beautiful GUI. It can make pretty much any sound you could want from a synth, and it has 256 categorized presets which is unreal. Combine that with availability in more formats and plaforms than any other plugin I've seen yet (Windows 32, 64-bit VST and AAX, OSX VST, AU and AAX, and even Linux). Rating: A++
+Thai Gongs (Alan ViSTa) Sampled chromatic thai gongs. 39 stereo samples of 13 gongs. Dynamic and volume controls. Simple, but very good-sounding. Wonderful for making world music or exotic atmospheres. As usual, available on Mac and Windows. Rating: A+
+Terrormin (Quilcom) Theramin emulation. Very neat GUI has a field with various configurations for visually playing the theramin on-key, depending on the preset (of which there are quite a few). Control panel on the GUI allows for a lot of tweaking, but the essence of the instrument is maintained even though the format is very different than the real thing. A super handy tool. Rating: A
+Ticky Clav 2 (2getheraudio) Hohner Clavinet emulation. As funky as you want to get. This things is 70s as heck. The GUI resembles the real keyboard, complete with keys. A good amount of presets for all the different vibes the instrument is capable of and a built-in wah and tone controls make this a great instrument. Rating: A-
+Toy Piano (Arman Bohn) Sampled toy piano. Simple GUI, ADSR control. It sounds extremely realistic; great for Dresden Dolls stuff like "Coin Operated Boy" or trying to get the sinister vibe of a children's toy for some dark music... despite its lack of flexibility, its one of my favorite instruments. Rating:  A+
+Texture (Ugo Audio) As you'd imagine, this synth excels as textural sounds. Great for atmospheric soundtracks or building soundscapes. GUI is easy on the eyes, and the multitude of presets is easy on the ears. A more unique-sounding instrument than many out there. I enjoy it quite a bit. Rating: A
+Transcendental 2000 (TN Audio) Based on Powertran Transcendant 2000, a DIY kit synth from the late 70s. Super cool GUI that looks like an old analog keyboard (complete with keys) match the sound well- just classic analog-style goodness. Sounds very real, and all the presets have that authentic vintage vibe to them. Rating: A
+Tricent mk III (Full Bucket Music) Trident mk II emulation. As always FBM knocks it out of the part. It looks and sounds the part and has a bucketfull of presets to boot. Another home run for FB, available for Mac and Windows. Rating: A+
+Triple Cheese (u-he) Comb filters synth. Unusual synthesis in that it uses comb filtering to make the sound. It results in sounds that can be "cheesy" but also very interesting and vibrant at the same time. Sounds like these love to be put through tape emulations to make it very warbly and interesting, but they're already very cool. A great GUI and a wonderful stack of presets make it very easy to start being inspired. Available across Mac, Windows AND Linux for a rating of A+. Rating: A+
+Trout (Qulcom) Tribute to Trautonium, an early German synth. Pure analog sound, it can do everything from a convincing Moog impression, to bell like sounds, to huge pads to sound FX. GUI is very easy to understand while still looking cool. A whole lot of presets to really get familiar with all this thing's tricks. Available for 32 and 64-bit Windows VST. Rating: A+
+Twisted Energy (Minimal Sytem) analog osc synth. Great in a variety of applications. Has an instantly-recognizable analog quality, but with a slightly modern tilt to it. The GUI is very attractive, and the good little handful of presets it comes with are super-musical right off the bat. Rating: B+
+Tyrell Nexus 6 (u-he) Virtual analog synth. Classic in its execution, it has all the features one would want from an analog-style synth and plays that role perfectly. Very cool GUI gives a pseudo-tactile experience to using the instrument, and its large array of stock presets is impressive. Perhaps best of all is it is available on all the major operating systems- Mac, Windows AND Linux! Rating: A+
+
+Unicycle (Spacedad) 8-bit wav-synth. 300 four-cycle waveforms at your disposal. Extremely vibrant chiptune sounds to match its uper bright, almost crude GUI with neon colors. For such a simple-sounding instrument, it has a ton of versatility. And a load of presets to boot. An unlikely hero in my DAW. Rating: A
+UprightPiano (Audiolatry) Sampled upright piano. As always, a great and minimal GUI w/ keyboard and adjustable parameters including reverb make this a pleasure. It's advised to add your own external reverb but the on-board one isn't bad at all. Good sound, no presets needed. Rating: A-
+
+VGP (Samsara Cycle Audio) Grand Piano emulation. Very realistic, with lots of controls. 4 types of pianos, 40 presets, and dozens of settings. Even has a pedal section for additional articulation. Unlike many piano plugins, it has dozens of presets- as per Samsara usual. Great plugin. Rating: A
+VibroMaster (Alan ViSTa) Vibrophone sampler. GUI with the usual controls for dynamic, release, sustain, volume, a built-in keyboard. Plays well with external reverb added. Available for Mac and Windows. Rating:  A+
+VK-1 Viking Synthesizer (Blamsoft) Moog Voyager monophonic synth emulation. Sounds very "Moog"y and rich. Fantastic presets, and a beautiful-looking GUI make this a classic. No huge surprises, just an excellent softsynth. Available for 64-bit Windows VST and Mac VST. Rating: A+
+VLT LO-FI (Quiet Music) Lofi synth sampler player. 4 very grungy and tiny lofi synth sounds full of huge character. Very pleasing GUI with all the usual parameters make this a pleasure to play- all the texture you could want. Available on Win and Mac. Rating: A (Get it at https://quietmusic.eu/vlt-lo-fi
+VMP1 (Samsara Cycle Audio) Mono/Poly analog synth. A little dynamo capable of all manner of analog-y synth sounds. The GUI visually looks just like an old analog synth, complete with wood ends- which is fitting for a synth that embodies that era with its sound. Just check out one of the myriad presets included to see what it can do. Solid plugin from Samsara, as always. Rating: B+
+VOC-ONE (Simple Media) Smart choirs synth. For synthetic vocal ensemble sounds. GUI isn't anything to write home about but the sounds are interesting because they're half-synthetic, half human. Sort of like a robot choir. Different presets for male and female and mixed ensembles. Pretty unique- I keep it because nothing else does quite what it does. Rating: B
+
+Waspy LE (Sound-Record) Arp synth. Big yellow GUI with rhythmic sequencer,  60 great presets and most important- big rhythmic sounds great for making exciting electronic music. Rating: B+
+Whispair (Full Bucket Music) Wavetable synth. Familiar and nice retro sounds- lots of presets. Mac and Windows availability. Rating: A+
+Window to Europe (Creatorum Genius Lab) Hybrid FM/additive synth with rhythmix sequencer Tons of presets, a beautiful GUI with tons of adjustability and a keyboard, and most of all- a super flexible sound that can make all sorts of great tones for dance music and beyond. Excellent on-board FX make it multi-dimensional, and it's a load of fun to play with. A lot of multi-faceted than many other VSTis. Rating:  A-
+
+Xakt (Krakli) Spectral synth. Great at atmospheric sounds like the more ambient parts of the Blade Runner score. The interface is very unorthodox-looking, but interesting; it has mostly faders, and an oscilloscope and looks like a piece of hardware. The sounds are where it's really at the though- one of the most unique plugins on this list, and has a ton of great presets. Its built-in reverb is pretty good, but as always- applying your own is advised. This is a favorite of mine. Despite only being 32-bit Windows VST, I'm giving it an A+. Rating: A+
+Xylo Toy (Reflekt Audio) Sampled Toy xylophone. Nice little GUI with all ADSR parameters and more. Sounds super real. No presets needed. Rating:  A   (Get it at https://reflektaudio.com/product/xylo-toy/
+Xylo Wood (Reflekt Audio) Sampled Wooden xylophone. Simple GUI with adjustable ADSR parameters. No presets, none needed. Available for Mac and Windows. Rating: A   (get it at https://reflektaudio.com/product/xylo-wood/
+
+
+YMVST (Preromanbritain) Atari ST YM2149 sound chip emulation. Great for chiptune and lofi/video game sounds. Cool little GUI with surprising amount of functionality- even a scope. Looks kind of archaic at first, but the sounds are nice and it's worth having. No presets unfortunately. Rating: B+
+
+ZeNeRyC Free (Tekky Synths) Psytrance synth. Good little bugger is awesome at making buzzy, grimy, trance-style electronic music. GUI is pretty slick and has a little keyboard, and its own delay, but FX are your friend. No presets, but a fun instrument unto itself. Rating: B-
+Zen SX1000 (Samsara Cycle Audio) Jen SX1000 emulation. Can't hurt to have another Jen clone- this one has a lot of presets, and a GUI that resembles the original's controls. Sound thick and very analog. No complaints. Rating:  B+
